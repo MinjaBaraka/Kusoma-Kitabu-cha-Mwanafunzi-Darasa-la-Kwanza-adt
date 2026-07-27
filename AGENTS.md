@@ -282,10 +282,10 @@ A flat `Record<textId, string>` containing every piece of text in the book. Exam
   "pg001_gp001_tx001": "",
   "pg001_im001": "Cheti cha ithibati cha Wizara ya Elimu, Sayansi na Teknolojia ya Tanzania kwa kitabu cha Kusoma Kitabu cha Mwanafunzi Darasa la Kwanza, kikiwa na namba 1138, ISBN 978-9987-09-986-3, tarehe 23 Oktoba 2023, na sahihi ya Kamishna wa Elimu Dkt. Lyabwene M. Mtahabwa.",
   "gl001": "adabu",
-  "gl001_def": "tabia njema ya kuheshimu na kutenda vizuri.",
-  "qz001_que": "Ukiunganisha herufi b na a, unapata silabi gani?",
-  "qz001_o0": "1) bu",
-  "qz001_o0_exp": "❌ Si sahihi. bu huundwa na herufi b na u, si b na a."
+  "gl001_def": "tabia njema ya kuheshimu na kujiendesha vizuri.",
+  "qz001_que": "Ukichanganya sauti ya herufi b na a, unapata silabi gani?",
+  "qz001_o0": "1) bi",
+  "qz001_o0_exp": "❌ Jaribu tena. bi hutokana na herufi b na i, siyo b na a."
 }
 ```
 
@@ -311,7 +311,7 @@ Keyed by word (lowercase). Each entry has the word, a simple definition, inflect
 {
   "adabu": {
     "word": "adabu",
-    "definition": "tabia njema ya kuheshimu na kutenda vizuri.",
+    "definition": "tabia njema ya kuheshimu na kujiendesha vizuri.",
     "variations": ["adabu"],
     "emoji": "🙏🙂"
   }
@@ -425,12 +425,12 @@ Quiz pages use `role="activity"` and embed correct answers in multiple places:
     data-correct-answers='{"qz001_o0":false,"qz001_o1":false,"qz001_o2":true}'
     data-option-explanations='{"qz001_o0":"qz001_o0_exp","qz001_o1":"qz001_o1_exp","qz001_o2":"qz001_o2_exp"}'>
 
-    <p data-id="qz001_que">Ukiunganisha herufi b na a, unapata silabi gani?</p>
+    <p data-id="qz001_que">Ukichanganya sauti ya herufi b na a, unapata silabi gani?</p>
 
     <label data-activity-item="qz001_o0"
-           data-explanation="❌ Si sahihi. bu huundwa na herufi b na u, si b na a." data-explanation-id="qz001_o0_exp">
+           data-explanation="❌ Jaribu tena. bi hutokana na herufi b na i, siyo b na a." data-explanation-id="qz001_o0_exp">
         <input type="radio" name="qz001" value="qz001_o0" class="sr-only" />
-        <span data-id="qz001_o0">1) bu</span>
+        <span data-id="qz001_o0">1) bi</span>
     </label>
     <!-- more options... -->
 </section>
