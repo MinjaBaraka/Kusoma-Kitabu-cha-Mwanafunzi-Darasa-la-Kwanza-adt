@@ -6,35 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Kusoma: Kitabu cha Mwanafunzi, Darasa la Kwanza</title>
     <meta name="title-id" content="pg014_sec001">
-    <meta name="page-section-id" content="14">
+    <meta name="page-section-id" content="12">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      .pg014-sheet { max-width: 76rem; padding: clamp(2.5rem, 6vw, 5.75rem); }
+      .pg014-intro { display: grid; grid-template-columns: minmax(0, 1fr) minmax(15rem, 22rem); align-items: center; gap: clamp(2rem, 7vw, 7rem); }
+      .pg014-prompts { font-size: clamp(1.8rem, 3.5vw, 3.25rem); line-height: 1.4; }
+      .pg014-letter-box { display: grid; min-height: clamp(14rem, 24vw, 21rem); place-items: center; border: 2px solid #242124; background: #fff; }
+      .pg014-letter { color: #242124; font-family: Georgia, serif; font-size: clamp(11rem, 22vw, 20rem); font-weight: 900; line-height: .7; }
+      .pg014-exercise { position: relative; margin-top: clamp(3rem, 7vw, 6rem); border: 2px solid #dec6ec; border-radius: 0 2rem 2rem; background: #fdfaff; }
+      .pg014-tab { position: absolute; top: -1.55rem; left: -.15rem; padding: .45rem 2rem .55rem .9rem; border-radius: 0 1.7rem 1.7rem 0; background: linear-gradient(100deg, #67398a, #9a5bc0); }
+      .pg014-exercise-prompt { font-size: clamp(1.35rem, 2.75vw, 2.35rem); font-style: italic; }
+      @media (max-width: 640px) { .pg014-sheet { padding: 2.25rem 1.25rem; } .pg014-intro { grid-template-columns: 1fr; } }
+    </style>
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
       <h1 class="sr-only" id="page-heading">Kusoma: Kitabu cha Mwanafunzi, Darasa la Kwanza</h1>
-      <div class="container mx-auto max-w-5xl bg-white px-16 max-lg:px-10 max-sm:px-6 pt-12 pb-16 opacity-0" id="content">
-  <section class="section mb-8" data-section-type="activity_multiple_choice" data-section-id="pg014_sec001">
+      <div class="container mx-auto bg-white opacity-0" id="content">
+  <section class="pg014-sheet mx-auto w-full min-h-screen" data-section-type="activity_multiple_choice" data-section-id="pg014_sec001">
     <div class="space-y-10">
-      <div class="flex items-start justify-between gap-10 max-sm:flex-col max-sm:items-start max-sm:gap-6">
-        <div class="space-y-4 pt-6 max-sm:pt-0">
-          <span class="block text-3xl text-gray-800 italic" data-id="pg014_n0002">Tazama herufi hii:</span>
-          <span class="block text-3xl text-gray-800 italic" data-id="pg014_n0003">Tamka sauti ya herufi hii:</span>
+      <div class="pg014-intro">
+        <div class="pg014-prompts space-y-4 text-gray-800 italic">
+          <span class="block" data-id="pg014_n0002">Tazama/ chunguza herufi hii:</span>
+          <span class="block" data-id="pg014_n0003">Tamka sauti ya herufi hii/ bainisha kwa lugha ya alama herufi hii:</span>
         </div>
-        <div class="w-72 max-lg:w-56 max-sm:w-full max-sm:max-w-[12rem] border border-gray-500 p-4 bg-white shrink-0 self-start">
-          <img data-id="pg014_im001" src="images/pg014_im001.png" alt="Herufi o" class="w-full h-auto" style="max-width: 100%; height: auto;">
-        </div>
+        <div class="pg014-letter-box" aria-label="Herufi o"><span class="pg014-letter">o</span></div>
       </div>
 
-      <div class="rounded-2xl border-2 border-purple-200 bg-purple-50/30 overflow-hidden">
-        <div class="inline-block bg-purple-700 text-white px-6 py-2 rounded-r-3xl shadow-sm">
+      <div class="pg014-exercise overflow-visible">
+        <div class="pg014-tab inline-block bg-purple-700 text-white shadow-sm">
           <span class="text-2xl font-bold italic" data-id="pg014_n0005">Zoezi la nne</span>
         </div>
 
-        <div class="px-6 pt-4 pb-8 max-sm:px-5">
-          <span class="block text-3xl text-pink-600 mb-8" data-id="pg014_n0006">Onesha na tamka sauti ya herufi o.</span>
+        <div class="px-6 pt-12 pb-8 max-sm:px-5">
+          <span class="pg014-exercise-prompt block text-pink-600 mb-8" data-id="pg014_n0006">Onesha na tamka sauti ya herufi o/ onesha na bainisha kwa lugha ya alama herufi o.</span>
 
           <div class="questions" role="group">
             <div class="border border-gray-500 bg-white px-8 py-10 max-sm:px-4 max-sm:py-6">
@@ -141,7 +150,7 @@
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/offline-preloader.js?v=22"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 </body>

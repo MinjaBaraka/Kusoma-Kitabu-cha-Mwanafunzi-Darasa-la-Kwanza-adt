@@ -7786,3 +7786,94 @@ span[data-word-index].bg-yellow-300 {
 .adt-body { font-size: 18px; line-height: 1.55; }
 .adt-caption { font-size: 16px; line-height: 1.4; }
 }
+
+/* UI polish overrides */
+:root {
+  --background: #f6f7f8;
+  --foreground: #111827;
+  --card: #ffffff;
+  --card-foreground: #111827;
+  --popover: #ffffff;
+  --popover-foreground: #111827;
+  --border: #dbe5ef;
+  --input: #f8fbff;
+  --ring: #7daeff;
+}
+html {
+  min-height: 100%;
+  background: radial-gradient(circle at top left, rgba(249, 205, 133, 0.15), transparent 26%),
+    radial-gradient(circle at bottom right, rgba(56, 189, 248, 0.08), transparent 22%),
+    linear-gradient(180deg, #fdf8f2 0%, #eef3f9 100%);
+}
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 2.5rem 1.5rem !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--background) !important;
+  color: var(--foreground) !important;
+}
+main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  max-width: 980px;
+}
+#content {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  overflow: hidden;
+  transition: none;
+  margin: 0 auto;
+}
+#content:hover {
+  transform: none;
+}
+#content > section {
+  border-radius: 0;
+}
+section[data-section-type="front_cover"] {
+  padding: 3rem 1.5rem 2.5rem !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+section[data-section-type="table_of_contents"] {
+  padding: 2.75rem 2rem 2.5rem !important;
+}
+section[data-section-type="table_of_contents"] .adt-h1 {
+  letter-spacing: 0.12em;
+}
+section[data-section-type="table_of_contents"] .adt-h2 {
+  margin-top: 1.2rem;
+}
+section[data-section-type="text_and_single_image"] {
+  padding: 2.5rem 2rem !important;
+}
+section[data-section-type="text_and_single_image"] .adt-body,
+section[data-section-type="text_and_single_image"] .adt-h2,
+section[data-section-type="text_and_single_image"] .adt-h3 {
+  text-align: center;
+}
+img {
+  border-radius: 1rem;
+}
+@media (max-width: 768px) {
+  body {
+    padding: 1rem !important;
+  }
+  section[data-section-type="front_cover"],
+  section[data-section-type="table_of_contents"],
+  section[data-section-type="text_and_single_image"] {
+    padding: 1.5rem 1rem !important;
+  }
+}

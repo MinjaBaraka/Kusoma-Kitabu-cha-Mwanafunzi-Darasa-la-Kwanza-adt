@@ -6,56 +6,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Kusoma: Kitabu cha Mwanafunzi, Darasa la Kwanza</title>
     <meta name="title-id" content="pg011_sec001">
-    <meta name="page-section-id" content="10">
+    <meta name="page-section-id" content="9">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      .pg011-sheet { max-width: 76rem; padding: clamp(2.5rem, 6vw, 5.75rem); }
+      .pg011-lesson { display: grid; gap: clamp(2.25rem, 4vw, 3.75rem); }
+      .pg011-title { display: table; margin: 0 auto; padding: .65rem clamp(1.25rem, 3vw, 2.25rem); background: linear-gradient(135deg, #ddf5fa, #b9e2ec); clip-path: polygon(0 20%, 4% 0, 96% 0, 100% 20%, 100% 80%, 96% 100%, 4% 100%, 0 80%); color: #182126; font-size: clamp(1.55rem, 3.2vw, 2.75rem); font-weight: 800; line-height: 1.15; }
+      .pg011-heading { color: #0ea5e9; font-size: clamp(1.55rem, 3.2vw, 2.65rem); font-weight: 800; font-style: italic; line-height: 1.2; }
+      .pg011-hero { display: grid; justify-items: center; gap: clamp(1.3rem, 2.4vw, 2rem); }
+      .pg011-hero-image { width: min(100%, 25rem); max-height: 26rem; object-fit: contain; }
+      .pg011-prompts, .pg011-questions { width: min(100%, 56rem); margin: 0 auto; color: #242124; font-size: clamp(1.2rem, 2.5vw, 2rem); font-style: italic; line-height: 1.45; }
+      .pg011-prompts li, .pg011-questions p { margin: .45rem 0; }
+      .pg011-compare { display: grid; justify-items: center; gap: clamp(1.25rem, 2.5vw, 2.25rem); }
+      .pg011-choices { display: grid; width: min(100%, 48rem); grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: end; gap: clamp(.75rem, 4vw, 3.5rem); }
+      .pg011-choice { display: grid; min-height: 15rem; place-items: end center; padding: .45rem; border-radius: 1rem; cursor: pointer; transition: background-color .15s ease, transform .15s ease; }
+      .pg011-choice:hover { background: #effbff; transform: translateY(-.2rem); }
+      .pg011-choice:has(input:focus-visible) { outline: 4px solid #0ea5e9; outline-offset: .2rem; }
+      .pg011-choice img { width: 100%; max-height: 15rem; object-fit: contain; }
+      @media (max-width: 640px) { .pg011-sheet { padding: 2.25rem 1.25rem; } .pg011-choices { gap: .35rem; } .pg011-choice { min-height: 10rem; } .pg011-choice img { max-height: 10rem; } }
+    </style>
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <div class="container mx-auto max-w-5xl bg-white px-16 max-lg:px-10 max-sm:px-5 pt-12 pb-12 opacity-0" id="content">
-  <section class="section mb-8" data-section-type="activity_multiple_choice" data-section-id="pg011_sec001">
-    <div class="space-y-10">
-      <div class="space-y-5 text-center">
-        <h1 class="inline-block bg-sky-100 px-6 py-3 rounded-xl font-bold text-gray-800 shadow-[0_8px_0_rgba(0,0,0,0.12)]" data-id="pg011_n0002">Ninatamka sauti ya herufi i.</h1>
-        <div class="space-y-4">
-          <span class="block font-bold text-sky-500" data-id="pg011_n0004">Mwanafunzi huyu anafanya nini?</span>
-          <div class="flex justify-center">
-            <img data-id="pg011_im001" src="images/pg011_im001.jpg" alt="Mwanafunzi" class="w-full max-w-[44rem] h-auto rounded" style="max-width: 100%; height: auto;">
-          </div>
-          <ul class="space-y-4 text-left max-w-3xl mx-auto text-gray-800 leading-relaxed pl-6 list-decimal">
-            <li data-id="pg011_n0007">1. Tamka sauti ya mwanzo ya tendo ulilotaja.</li>
-            <li data-id="pg011_n0009">2. Taja maneno mengine yanayoanza na sauti hiyo.</li>
+      <div class="container mx-auto bg-white opacity-0" id="content">
+  <section class="pg011-sheet mx-auto w-full min-h-screen" data-section-type="activity_multiple_choice" data-section-id="pg011_sec001">
+    <div class="pg011-lesson">
+      <div class="pg011-hero text-center">
+        <h1 class="pg011-title" data-id="pg011_n0002">Ninatamka sauti ya herufi i/ Ninabainisha kwa kutumia lugha ya alama herufi i.</h1>
+        <div class="grid justify-items-center gap-5 w-full">
+          <span class="pg011-heading" data-id="pg011_n0004">Mwanafunzi huyu anafanya nini?</span>
+          <img data-id="pg011_im001" src="images/pg011_im001.jpg" alt="Mwanafunzi" class="pg011-hero-image">
+          <ul class="pg011-prompts text-left list-none p-0">
+            <li data-id="pg011_n0007">1. Tamka sauti ya mwanzo ya neno ulilotaja/ bainisha kwa lugha ya alama herufi ya mwanzo ya neno hilo.</li>
+            <li data-id="pg011_n0009">2. Taja maneno mengine yanayoanza na sauti hiyo/ bainisha kwa lugha ya alama maneno mengine yanayoanza na herufi hiyo.</li>
           </ul>
         </div>
       </div>
 
-      <div class="space-y-6">
-        <span class="block text-center font-bold text-sky-500" data-id="pg011_n0011">Watoto hawa wanafanya nini?</span>
+      <div class="pg011-compare">
+        <span class="pg011-heading text-center" data-id="pg011_n0011">Watoto hawa wanafanya nini?</span>
 
-        <div class="max-w-4xl mx-auto">
-          <div class="grid grid-cols-3 gap-8 items-end max-sm:grid-cols-1 max-sm:gap-6">
-            <label class="activity-option cursor-pointer flex flex-col items-center justify-end">
+        <div class="w-full">
+          <div class="pg011-choices mx-auto">
+            <label class="pg011-choice activity-option">
               <input type="radio" name="question-group-1" value="item-1" data-activity-item="item-1" class="sr-only" tabindex="0" aria-label="Baiskeli na kuinama">
               <input type="radio" name="question-group-2" value="item-4" data-activity-item="item-4" class="sr-only" tabindex="0" aria-label="Baiskeli">
-              <img data-id="pg011_im002" src="images/pg011_im002.jpg" alt="Mtoto anaendesha baiskeli" class="w-full max-w-[15rem] h-auto rounded" style="max-width: 100%; height: auto;">
+              <img data-id="pg011_im002" src="images/pg011_im002.jpg" alt="Mtoto anaendesha baiskeli">
             </label>
-            <label class="activity-option cursor-pointer flex flex-col items-center justify-end">
+            <label class="pg011-choice activity-option">
               <input type="radio" name="question-group-1" value="item-2" data-activity-item="item-2" class="sr-only" tabindex="0" aria-label="Kuinama na kuimba">
               <input type="radio" name="question-group-2" value="item-5" data-activity-item="item-5" class="sr-only" tabindex="0" aria-label="Kuinama">
-              <img data-id="pg011_im003" src="images/pg011_im003.jpg" alt="Mtoto ameinama" class="w-full max-w-[11rem] h-auto rounded" style="max-width: 100%; height: auto;">
+              <img data-id="pg011_im003" src="images/pg011_im003.jpg" alt="Mtoto ameinama">
             </label>
-            <label class="activity-option cursor-pointer flex flex-col items-center justify-end">
+            <label class="pg011-choice activity-option">
               <input type="radio" name="question-group-1" value="item-3" data-activity-item="item-3" class="sr-only" tabindex="0" aria-label="Baiskeli na kuimba">
               <input type="radio" name="question-group-2" value="item-6" data-activity-item="item-6" class="sr-only" tabindex="0" aria-label="Kuimba">
-              <img data-id="pg011_im004" src="images/pg011_im004.jpg" alt="Mtoto anaimba" class="w-full max-w-[12rem] h-auto rounded" style="max-width: 100%; height: auto;">
+              <img data-id="pg011_im004" src="images/pg011_im004.jpg" alt="Mtoto anaimba">
             </label>
           </div>
 
-          <div class="mt-10 space-y-5 text-gray-800 leading-relaxed">
-            <p class="pl-6 -indent-6" data-id="pg011_n0015">1. Matendo yapi yana sauti za mwanzo zinazofanana?</p>
-            <p class="pl-6 -indent-6 max-w-3xl" data-id="pg011_n0017">2. Tendo lipi lina sauti ya mwanzo isiyofanana na nyingine?</p>
+          <div class="pg011-questions mt-7">
+            <p data-id="pg011_n0015">1. Matendo yapi yana sauti za mwanzo zinazofanana?</p>
+            <p data-id="pg011_n0017">2. Tendo lipi lina sauti ya mwanzo isiyofanana na nyingine?</p>
           </div>
         </div>
       </div>
@@ -69,7 +84,7 @@
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/offline-preloader.js?v=57"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 </body>

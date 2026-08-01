@@ -6,21 +6,68 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Kusoma: Kitabu cha Mwanafunzi, Darasa la Kwanza</title>
     <meta name="title-id" content="pg012_sec001">
-    <meta name="page-section-id" content="11">
+    <meta name="page-section-id" content="10">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      .pg012-sheet { max-width: 80rem; padding: clamp(3rem, 7vw, 7rem); }
+      .pg012-intro { display: grid; grid-template-columns: minmax(0, 1fr) minmax(17rem, 27rem); align-items: center; gap: clamp(2rem, 7vw, 8rem); }
+      .pg012-prompts { padding-top: clamp(1rem, 4vw, 4rem); }
+      .pg012-prompts p { font-size: clamp(1.9rem, 3.5vw, 3.35rem); line-height: 1.35; }
+      .pg012-letter-frame { display: grid; min-height: clamp(15rem, 25vw, 25rem); place-items: center; border: 2px solid #1386bd; background: #fff; }
+      .pg012-letter { font-size: clamp(12rem, 23vw, 25rem); line-height: .75; color: #31599d; }
+      .pg012-exercise { position: relative; margin-top: clamp(3rem, 7vw, 6rem); padding: clamp(3.5rem, 6vw, 5.5rem) clamp(1.25rem, 4vw, 4rem) clamp(2rem, 4vw, 3.5rem); border: 2px solid #dec6ec; border-radius: 0 2rem 2rem; background: #fdfaff; }
+      .pg012-exercise-title { position: absolute; top: -1.55rem; left: -.15rem; padding: .45rem 2rem .55rem .9rem; border-radius: 0 1.7rem 1.7rem 0; background: linear-gradient(100deg, #67398a, #9a5bc0); color: #fff; font-size: clamp(1.45rem, 3vw, 2.5rem); font-weight: 800; line-height: 1; }
+      .pg012-exercise-prompt { margin-bottom: clamp(1.5rem, 3vw, 2.5rem); color: #e60086; font-size: clamp(1.35rem, 2.75vw, 2.35rem); font-style: italic; line-height: 1.35; }
+      .pg012-choices { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(1.5rem, 4vw, 4rem) clamp(1.5rem, 6vw, 6rem); padding: clamp(1.5rem, 3vw, 3rem); border: 1.5px solid #4c4c4c; background: #fff; }
+      .pg012-choice { display: grid; place-items: center; min-height: clamp(8rem, 14vw, 12rem); cursor: pointer; }
+      .pg012-choice input:focus-visible + .pg012-choice-letter { outline: 4px solid #16a5e5; outline-offset: .25rem; }
+      .pg012-choice-letter { font-family: Georgia, serif; font-size: clamp(5.5rem, 11vw, 10rem); font-weight: 900; font-style: italic; line-height: .7; }
+      .pg012-choice[data-activity-item="item-1"] .pg012-choice-letter, .pg012-choice[data-activity-item="item-7"] .pg012-choice-letter { color: #283d86; }
+      .pg012-choice[data-activity-item="item-2"] .pg012-choice-letter { color: #3eaa48; }
+      .pg012-choice[data-activity-item="item-3"] .pg012-choice-letter, .pg012-choice[data-activity-item="item-8"] .pg012-choice-letter { color: #8345a8; }
+      .pg012-choice[data-activity-item="item-4"], .pg012-choice[data-activity-item="item-6"] .pg012-choice-letter { color: #171717; }
+      .pg012-choice[data-activity-item="item-5"] .pg012-choice-letter { color: #08a5df; }
+      @media (max-width: 640px) { .pg012-sheet { padding: 2.25rem 1.25rem; } .pg012-intro { grid-template-columns: 1fr; } .pg012-prompts { padding-top: 0; } .pg012-letter-frame { min-height: 13rem; } .pg012-exercise { border-radius: 0 1.3rem 1.3rem; padding-inline: 1rem; } .pg012-choices { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+    </style>
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <h1 class="sr-only" id="page-heading">Kusoma: Kitabu cha Mwanafunzi, Darasa la Kwanza</h1>
-      <div id="content" class="container opacity-0"><section data-section-type="text_and_single_image" data-section-id="pg012_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-12 bg-white min-h-screen"><div class="flex justify-between items-start gap-10 max-lg:flex-col max-lg:gap-6"><p class="adt-body text-left text-neutral-800 leading-loose z-10 pt-12 max-lg:pt-0"><span data-id="pg012_n0002">Tazama herufi hii:</span><span data-id="pg012_n0003" class="block mt-3">Tamka sauti ya herufi hii:</span></p><div class="shrink-0 self-start border-2 border-sky-400 bg-white p-3"><img src="images/pg012_im001.png" alt="Herufi ndogo i." data-id="pg012_im001" class="block w-52 h-auto max-sm:w-40" style="max-width: 100%; height: auto;"></div></div></section></div>
+        <h1 class="sr-only" id="page-heading">Kusoma: Kitabu cha Mwanafunzi, Darasa la Kwanza</h1>
+        <div id="content" class="container opacity-0">
+            <section data-section-type="text_and_single_image" data-section-id="pg012_sec001" class="pg012-sheet mx-auto w-full bg-white min-h-screen">
+                <div class="pg012-intro">
+                    <div class="pg012-prompts text-neutral-800">
+                        <p class="italic mb-7"><span data-id="pg012_n0002">Tazama/ chunguza herufi hii:</span></p>
+                        <p class="italic"><span data-id="pg012_n0003">Tamka sauti ya herufi hii/ bainisha kwa lugha ya alama herufi hii:</span></p>
+                    </div>
+                    <div class="pg012-letter-frame" aria-label="Herufi i"><span class="pg012-letter font-bold">i</span></div>
+                </div>
+                <section class="pg012-exercise" data-section-type="activity_multi_select" data-section-id="pg012_sec001_activity">
+                    <div class="pg012-exercise-title"><span data-id="pg012_n0008">Zoezi la tatu</span></div>
+                    <p data-id="pg012_n0009" class="pg012-exercise-prompt">Onesha na tamka sauti ya herufi i/ onesha na bainisha kwa lugha ya alama herufi i.</p>
+                    <div class="pg012-choices" role="group" aria-label="Zoezi la tatu">
+                        <label class="pg012-choice" data-activity-item="item-1"><input type="checkbox" name="pg012-exercise" value="item-1" data-activity-item="item-1" class="sr-only" aria-label="Option 1 a"><span class="pg012-choice-letter" data-id="pg012_n0011">a</span></label>
+                        <label class="pg012-choice" data-activity-item="item-2"><input type="checkbox" name="pg012-exercise" value="item-2" data-activity-item="item-2" class="sr-only" aria-label="Option 2 i"><span class="pg012-choice-letter" data-id="pg012_n0012">i</span></label>
+                        <label class="pg012-choice" data-activity-item="item-3"><input type="checkbox" name="pg012-exercise" value="item-3" data-activity-item="item-3" class="sr-only" aria-label="Option 3 a"><span class="pg012-choice-letter" data-id="pg012_n0013">a</span></label>
+                        <label class="pg012-choice" data-activity-item="item-4"><input type="checkbox" name="pg012-exercise" value="item-4" data-activity-item="item-4" class="sr-only" aria-label="Option 4 e"><span class="pg012-choice-letter" data-id="pg012_n0014">e</span></label>
+                        <label class="pg012-choice" data-activity-item="item-5"><input type="checkbox" name="pg012-exercise" value="item-5" data-activity-item="item-5" class="sr-only" aria-label="Option 5 i"><span class="pg012-choice-letter" data-id="pg012_n0015">i</span></label>
+                        <label class="pg012-choice" data-activity-item="item-6"><input type="checkbox" name="pg012-exercise" value="item-6" data-activity-item="item-6" class="sr-only" aria-label="Option 6 u"><span class="pg012-choice-letter" data-id="pg012_n0016">u</span></label>
+                        <label class="pg012-choice" data-activity-item="item-7"><input type="checkbox" name="pg012-exercise" value="item-7" data-activity-item="item-7" class="sr-only" aria-label="Option 7 i"><span class="pg012-choice-letter" data-id="pg012_n0017">i</span></label>
+                        <label class="pg012-choice" data-activity-item="item-8"><input type="checkbox" name="pg012-exercise" value="item-8" data-activity-item="item-8" class="sr-only" aria-label="Option 8 a"><span class="pg012-choice-letter" data-id="pg012_n0018">a</span></label>
+                    </div>
+                </section>
+            </section>
+        </div>
     </main>
+
+    <script>window.correctAnswers = JSON.parse('{"item-1":false,"item-2":true,"item-3":false,"item-4":false,"item-5":true,"item-6":false,"item-7":true,"item-8":false}');</script>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/offline-preloader.js?v=18"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 </body>
