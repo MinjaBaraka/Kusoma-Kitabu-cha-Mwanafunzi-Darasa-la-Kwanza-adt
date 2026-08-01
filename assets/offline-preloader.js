@@ -22,7 +22,11 @@
     if (key !== null) {
       var data = INLINE[key];
       var isJson = key.slice(-5) === ".json";
-      var body = isJson ? JSON.stringify(data) : data;
+      // Some generated JSON resources are already stored as serialized JSON
+      // strings, while others are stored as objects.  Serializing the former
+      // a second time makes response.json() return a string instead of the
+      // expected array/object, which prevents the ADT navigation from loading.
+      var body = isJson ? (typeof data === "string" ? data : JSON.stringify(data)) : data;
       var ct = isJson ? "application/json" : "text/html; charset=utf-8";
       return Promise.resolve(
         new Response(body, { status: 200, headers: { "Content-Type": ct } })
