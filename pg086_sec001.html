@@ -10,62 +10,188 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+        .pg086-page {
+            max-width: 68rem;
+            padding: clamp(2rem, 5vw, 5rem) clamp(1.25rem, 4vw, 4.5rem);
+            color: #231f20;
+        }
+
+        .pg086-intro {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            align-items: center;
+            gap: clamp(2rem, 8vw, 8rem);
+            margin-bottom: clamp(3rem, 6vw, 5rem);
+        }
+
+        .pg086-prompt {
+            margin: 0;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(1.6rem, 3vw, 2.4rem);
+            font-style: italic;
+            line-height: 1.45;
+        }
+
+        .pg086-letter-card {
+            display: grid;
+            width: clamp(10.5rem, 19vw, 13.5rem);
+            height: clamp(10.5rem, 19vw, 13.5rem);
+            place-items: center;
+            border: 1.5px solid #76b947;
+            background: #fff;
+        }
+
+        .pg086-feature-letter {
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(7rem, 13vw, 10rem);
+            font-weight: 800;
+            line-height: .8;
+            color: #76b947;
+        }
+
+        .pg086-exercise {
+            position: relative;
+            border: 2px solid #dccbe6;
+            border-radius: 1.6rem;
+            background: #fcfaff;
+            padding: 1.25rem clamp(1rem, 3vw, 2.85rem) clamp(2rem, 4vw, 3rem);
+            box-shadow: 0 1px 3px rgb(81 47 115 / 8%);
+        }
+
+        .pg086-tab {
+            position: absolute;
+            top: -1.45rem;
+            left: -.8rem;
+            border-radius: .2rem 1.5rem 1.5rem .2rem;
+            padding: .35rem 1.25rem .48rem;
+            background: linear-gradient(180deg, #9c62bd 0%, #6f388c 100%);
+            box-shadow: inset 0 1px 1px rgb(255 255 255 / 35%), 0 2px 3px rgb(58 28 79 / 22%);
+            color: #fff;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(1.55rem, 3.5vw, 2.35rem);
+            font-weight: 800;
+            line-height: 1;
+        }
+
+        .pg086-content {
+            padding-top: 1.7rem;
+        }
+
+        .pg086-block + .pg086-block {
+            margin-top: 1.75rem;
+        }
+
+        .pg086-instruction {
+            margin: 0 0 .75rem;
+            color: #ec008c;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(1.45rem, 2.8vw, 2.2rem);
+            font-style: italic;
+            line-height: 1.3;
+        }
+
+        .pg086-board {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: clamp(1.75rem, 5vw, 4rem) clamp(1.5rem, 6vw, 5rem);
+            margin: .9rem 0 1.65rem;
+            padding: clamp(1.5rem, 4vw, 2.7rem);
+            border: 1.5px solid #56515a;
+            background: #fcfaff;
+        }
+
+        .pg086-board-letter {
+            text-align: center;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(4.25rem, 8vw, 6.6rem);
+            font-weight: 800;
+            line-height: .82;
+        }
+
+        .pg086-word-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: .5rem 2.4rem;
+            margin: .25rem 0 1rem 2.6rem;
+            color: #231f20;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(1.4rem, 2.6vw, 2rem);
+            font-weight: 800;
+            line-height: 1.2;
+        }
+
+        .pg086-example-heading {
+            margin: .1rem 0 .3rem 2.6rem;
+            color: #231f20;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(1.45rem, 2.7vw, 2rem);
+            font-weight: 800;
+        }
+
+        .pg086-copy {
+            margin: .2rem 0 0 2.6rem;
+            color: #231f20;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(1.3rem, 2.45vw, 1.82rem);
+            font-style: italic;
+            line-height: 1.4;
+        }
+
+        @media (max-width: 640px) {
+            .pg086-intro { grid-template-columns: 1fr; gap: 1.5rem; }
+            .pg086-letter-card { justify-self: end; }
+            .pg086-exercise { border-radius: 1rem; }
+            .pg086-tab { left: 0; }
+            .pg086-word-row, .pg086-example-heading, .pg086-copy { margin-left: 1.65rem; }
+            .pg086-board { gap: 1.5rem; padding: 1.25rem .8rem; }
+        }
+    </style>
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
       <h1 class="sr-only" id="page-heading">Zoezi la kwanza</h1>
-      <div id="content" class="container opacity-0"><section data-section-type="boxed_text" data-section-id="pg086_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-10 text-neutral-800 max-sm:px-5">
-  <div class="flex items-start justify-between gap-10 max-lg:gap-6 max-sm:flex-col max-sm:items-start">
-    <div class="flex-1 pt-8 max-sm:pt-2">
-      <p class="adt-body mb-4 text-left leading-relaxed text-neutral-800"><span data-id="pg086_n0002">Tazama/ chunguza herufi hii:</span></p>
-      <p class="adt-body text-left leading-relaxed text-neutral-800"><span data-id="pg086_n0003">Tamka sauti ya herufi hii/ bainisha kwa lugha ya alama herufi hii:</span></p>
+      <div id="content" class="container opacity-0"><section data-section-type="boxed_text" data-section-id="pg086_sec001" class="pg086-page mx-auto w-full bg-white">
+  <div class="pg086-intro">
+    <div>
+      <p class="pg086-prompt"><span data-id="pg086_n0002">Tazama/ chunguza herufi hii:</span></p>
+      <p class="pg086-prompt"><span data-id="pg086_n0003">Tamka sauti ya herufi hii/ bainisha kwa lugha ya alama herufi hii:</span></p>
     </div>
-    <div class="ml-auto flex h-48 w-48 shrink-0 items-center justify-center border border-green-300 bg-white max-lg:h-40 max-lg:w-40 max-sm:h-40 max-sm:w-40">
-      <div data-id="pg086_n0004" class="adt-h1 font-black leading-none text-green-500">r</div>
-    </div>
+    <div class="pg086-letter-card"><div data-id="pg086_n0004" class="pg086-feature-letter">r</div></div>
   </div>
 
-  <div class="relative mt-10 rounded-[1.75rem] border-2 border-purple-200 bg-purple-50/40">
-    <div class="inline-block -mt-4 rounded-r-full bg-purple-700 px-5 py-2 shadow-md max-sm:px-4 max-sm:py-2">
-      <div data-id="pg086_n0007" class="adt-h2 font-bold text-white">Zoezi la kwanza</div>
-    </div>
-
-    <div class="px-6 pb-8 pt-4 max-sm:px-4">
-      <div class="mb-8">
-        <p class="adt-body mb-5 text-left leading-relaxed text-pink-600"><span data-id="pg086_n0009">1. Onesha na tamka sauti ya herufi r/ onesha na bainisha kwa lugha ya alama herufi r.</span></p>
-        <div class="border border-neutral-500 bg-white px-8 py-6 max-sm:px-3 max-sm:py-4">
-          <div class="grid grid-cols-4 place-items-center gap-x-6 gap-y-5 max-sm:gap-x-3 max-sm:gap-y-3">
-            <div data-id="pg086_n0010" class="adt-h1 font-black leading-none italic text-neutral-900">r</div>
-            <div data-id="pg086_n0011" class="adt-h1 font-black leading-none text-purple-700">h</div>
-            <div data-id="pg086_n0012" class="adt-h1 font-black leading-none text-blue-800">e</div>
-            <div data-id="pg086_n0013" class="adt-h1 font-black leading-none text-orange-500">r</div>
-            <div data-id="pg086_n0014" class="adt-h1 font-black leading-none text-sky-500">l</div>
-            <div data-id="pg086_n0015" class="adt-h1 font-black leading-none text-green-500">r</div>
-            <div data-id="pg086_n0016" class="adt-h1 font-black leading-none text-blue-800">i</div>
-            <div data-id="pg086_n0017" class="adt-h1 font-black leading-none text-neutral-900">k</div>
-          </div>
+  <div class="pg086-exercise">
+    <div data-id="pg086_n0007" class="pg086-tab">Zoezi la kwanza</div>
+    <div class="pg086-content">
+      <div class="pg086-block">
+        <p class="pg086-instruction"><span data-id="pg086_n0009">1. Onesha na tamka sauti ya herufi r/ onesha na bainisha kwa lugha ya alama herufi r.</span></p>
+        <div class="pg086-board">
+          <div data-id="pg086_n0010" class="pg086-board-letter text-neutral-900">r</div>
+          <div data-id="pg086_n0011" class="pg086-board-letter text-purple-700">h</div>
+          <div data-id="pg086_n0012" class="pg086-board-letter text-blue-800">e</div>
+          <div data-id="pg086_n0013" class="pg086-board-letter text-orange-500">r</div>
+          <div data-id="pg086_n0014" class="pg086-board-letter text-sky-500">l</div>
+          <div data-id="pg086_n0015" class="pg086-board-letter text-green-500">r</div>
+          <div data-id="pg086_n0016" class="pg086-board-letter text-blue-800">i</div>
+          <div data-id="pg086_n0017" class="pg086-board-letter text-neutral-900">k</div>
         </div>
       </div>
 
-      <div class="mb-8">
-        <p class="adt-body mb-2 text-left leading-relaxed text-pink-600"><span data-id="pg086_n0019">2. Unda silabi kwa kuunganisha herufi r na a</span></p>
-        <div class="adt-h3 mb-4 pl-10 font-bold tracking-wide text-neutral-900 max-sm:pl-4">
-          <span data-id="pg086_n0020" class="mr-8 inline-block">e</span><span data-id="pg086_n0021" class="mr-8 inline-block">i</span><span data-id="pg086_n0022" class="mr-8 inline-block">o</span><span data-id="pg086_n0023" class="inline-block">u</span>
-        </div>
-        <div data-id="pg086_n0025" class="adt-h3 mb-2 font-extrabold text-neutral-900">Mifano</div>
-        <p class="adt-body mb-3 text-left leading-relaxed text-neutral-800"><span data-id="pg086_n0026">Herufi r na a zinaunda silabi ra.</span></p>
-        <p class="adt-body text-left leading-relaxed text-neutral-800"><span data-id="pg086_n0027">Herufi r na e zinaunda silabi re.</span></p>
+      <div class="pg086-block">
+        <p class="pg086-instruction"><span data-id="pg086_n0019">2. Unda silabi kwa kuunganisha herufi r na a</span></p>
+        <div class="pg086-word-row"><span data-id="pg086_n0020">e</span><span data-id="pg086_n0021">i</span><span data-id="pg086_n0022">o</span><span data-id="pg086_n0023">u</span></div>
+        <div data-id="pg086_n0025" class="pg086-example-heading">Mifano</div>
+        <p class="pg086-copy"><span data-id="pg086_n0026">Herufi r na a zinaunda silabi ra.</span></p>
+        <p class="pg086-copy"><span data-id="pg086_n0027">Herufi r na e zinaunda silabi re.</span></p>
       </div>
 
-      <div>
-        <p class="adt-body mb-2 text-left leading-relaxed text-pink-600"><span data-id="pg086_n0029">3. Tenganisha Herufi zinazounda silabi hizi kwa kutamka/ kutumia lugha ya alama:</span></p>
-        <div class="adt-h3 mb-4 pl-10 font-bold tracking-wide text-neutral-900 max-sm:pl-4">
-          <span data-id="pg086_n0030" class="mr-8 inline-block">ri</span><span data-id="pg086_n0031" class="mr-8 inline-block">ru</span><span data-id="pg086_n0032" class="mr-8 inline-block">ro</span><span data-id="pg086_n0033" class="mr-8 inline-block">ra</span><span data-id="pg086_n0034" class="inline-block">re</span>
-        </div>
-        <div data-id="pg086_n0036" class="adt-h3 mb-2 font-extrabold text-neutral-900">Mifano</div>
-        <p class="adt-body mb-3 text-left leading-relaxed text-neutral-800"><span data-id="pg086_n0037">Herufi zinazounda silabi ri ni r i.</span></p>
-        <p class="adt-body text-left leading-relaxed text-neutral-800"><span data-id="pg086_n0038">Herufi zinazounda silabi ru ni r u.</span></p>
+      <div class="pg086-block">
+        <p class="pg086-instruction"><span data-id="pg086_n0029">3. Tenganisha herufi zinazounda silabi hizi kwa kutamka/ kwa kutumia lugha ya alama:</span></p>
+        <div class="pg086-word-row"><span data-id="pg086_n0030">ri</span><span data-id="pg086_n0031">ru</span><span data-id="pg086_n0032">ro</span><span data-id="pg086_n0033">ra</span><span data-id="pg086_n0034">re</span></div>
+        <div data-id="pg086_n0036" class="pg086-example-heading">Mifano</div>
+        <p class="pg086-copy"><span data-id="pg086_n0037">Herufi zinazounda silabi ri ni r i.</span></p>
+        <p class="pg086-copy"><span data-id="pg086_n0038">Herufi zinazounda silabi ru ni r u.</span></p>
       </div>
     </div>
   </div>
@@ -74,7 +200,7 @@
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=66"></script>
+    <script src="./assets/offline-preloader.js?v=16"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 </body>

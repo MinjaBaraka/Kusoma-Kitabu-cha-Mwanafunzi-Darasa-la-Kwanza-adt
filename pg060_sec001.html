@@ -19,6 +19,7 @@
     .pg060-panel .pg060-instruction { color: #e60086; font-family: Georgia, serif; font-size: clamp(1.2rem, 1.95vw, 1.7rem); font-style: italic; line-height: 1.35; }
     .pg060-panel .pg060-body { color: #262126; font-family: Georgia, serif; font-size: clamp(1.2rem, 1.75vw, 1.6rem); font-style: italic; line-height: 1.5; }
     .pg060-grid-letter { font-family: Georgia, serif; font-size: clamp(3.4rem, 7vw, 5.5rem); font-style: italic; font-weight: 800; line-height: 1; text-align: center; }
+    .pg060-token-line { display: inline-flex; flex-wrap: wrap; gap: .2rem 1.25rem; color: #231f20; font-weight: 800; }
     @media (max-width: 640px) { .pg060-panel { padding: 3.25rem 1rem 2rem; } }
   </style>
     <style data-letter-sequence>
@@ -63,8 +64,7 @@
                 zinaunda silabi je.</p>
             </div>
 
-            <p class="adt-body sr-only text-left text-pink-600 leading-relaxed mt-8" data-id="pg060_n0017">4. Tenganisha
-              Herufi zinazounda silabi hizi kwa kutamka/ kutumia lugha ya alama:</p>
+            <p class="adt-body sr-only text-left text-pink-600 leading-relaxed mt-8" data-id="pg060_n0017">4. Tenganisha herufi zinazounda silabi hizi kwa kutamka/ kwa kutumia lugha ya alama:</p>
 
             <div class="sr-only mt-4 flex flex-wrap gap-x-12 gap-y-3 max-sm:gap-x-8">
               <span class="adt-h3 font-bold text-zinc-800" data-id="pg060_n0019">jo</span>
@@ -75,7 +75,7 @@
             </div>
 
             <div aria-hidden="true">
-              <p class="pg060-instruction mb-5">1. Onesha na tamka sauti ya herufi <strong class="text-zinc-900">j.</strong></p>
+              <p class="pg060-instruction mb-5">1. Onesha na tamka sauti ya herufi <strong class="text-zinc-900">j</strong>/ onesha na bainisha kwa lugha ya alama herufi <strong class="text-zinc-900">j.</strong></p>
               <div class="mx-10 mb-7 border border-zinc-600 bg-white px-8 py-7 max-sm:mx-0 max-sm:px-4">
                 <div class="grid grid-cols-4 gap-x-10 gap-y-8 max-sm:grid-cols-2 max-sm:gap-x-6">
                   <span class="pg060-grid-letter text-blue-800">i</span><span class="pg060-grid-letter text-purple-600">k</span><span class="pg060-grid-letter text-zinc-900">j</span><span class="pg060-grid-letter text-blue-800">l</span>
@@ -83,11 +83,11 @@
                 </div>
               </div>
               <p class="pg060-instruction mb-5">2. Sikiliza na tamka sauti za herufi <strong class="text-zinc-900">l&nbsp;&nbsp; t&nbsp;&nbsp; p&nbsp;&nbsp; s&nbsp;&nbsp; f&nbsp;&nbsp; j</strong> zilizooneshwa/ tazama video na bainisha kwa kutumia lugha ya alama herufi <strong class="text-zinc-900">l&nbsp;&nbsp; t&nbsp;&nbsp; p&nbsp;&nbsp; s&nbsp;&nbsp; f&nbsp;&nbsp; j</strong> zilizooneshwa.</p>
-              <p class="pg060-instruction mb-3">3. Unda silabi kwa kuunganisha herufi <strong class="text-zinc-900">j na a&nbsp;&nbsp; e<br>i&nbsp;&nbsp; o&nbsp;&nbsp; u.</strong></p>
+              <p class="pg060-instruction mb-3">3. Unda silabi kwa kuunganisha herufi <span class="pg060-token-line"><span>j na a</span><span>e</span><span>i</span><span>o</span><span>u.</span></span></p>
               <h3 class="pg060-body font-extrabold mb-2">Mifano</h3>
               <p class="pg060-body mb-7">Herufi <strong>j</strong> na <strong>a</strong> zinaunda silabi <strong>ja.</strong><br>Herufi <strong>j</strong> na <strong>e</strong> zinaunda silabi <strong>je.</strong></p>
-              <p class="pg060-instruction mb-3">4. Tenganisha Herufi zinazounda silabi hizi kwa kutamka/ kutumia lugha ya alama:</p>
-              <p class="pg060-body font-extrabold">jo &nbsp;&nbsp;&nbsp; ji &nbsp;&nbsp;&nbsp; ju &nbsp;&nbsp;&nbsp; ja &nbsp;&nbsp;&nbsp; je</p>
+              <p class="pg060-instruction mb-3">4. Tenganisha herufi zinazounda silabi hizi kwa kutamka/ kwa kutumia lugha ya alama:</p>
+              <p class="pg060-body font-extrabold"><span class="pg060-token-line"><span>jo</span><span>ji</span><span>ju</span><span>ja</span><span>je</span></span></p>
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@
 
   <div class="relative z-50" id="interface-container"></div>
   <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=73"></script>
+    <script src="./assets/offline-preloader.js?v=16"></script>
   <script src="./assets/scorm.js"></script>
   <script src="./assets/base.bundle.local.js"></script>
 </body>
