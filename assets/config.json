@@ -1,6 +1,6 @@
 {
   "title": "Kusoma: Kitabu cha Mwanafunzi, Darasa la Kwanza",
-  "bundleVersion": "10",
+  "bundleVersion": "11",
   "languages": {
     "available": [
       "sw-TZ"
@@ -8,7 +8,7 @@
     "default": "sw-TZ"
   },
   "features": {
-    "signLanguage": false,
+    "signLanguage": true,
     "easyRead": true,
     "glossary": true,
     "eli5": false,
