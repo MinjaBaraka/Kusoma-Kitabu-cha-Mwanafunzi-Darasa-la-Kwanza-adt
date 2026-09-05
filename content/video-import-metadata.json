@@ -2,2674 +2,2690 @@
   "version": 1,
   "videos": {
     "video-1": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg001_sec001.mp4",
       "section_id": "pg001_sec001",
       "languages": [
         "sw-TZ"
       ],
       "source_name": "Page_1.mp4",
-      "source_size": 70145501,
+      "source_size": 2096736,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 1",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_1.mp4 -> pages.json position 2",
       "trim_start": null,
       "trim_end": null
     },
     "video-2": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+      "imported_at": "2026-09-05T07:59:10.652Z",
+      "filename": "sl_pg002_sec001.mp4",
+      "section_id": "pg002_sec001",
+      "languages": [
+        "sw-TZ"
+      ],
+      "source_name": "page_2.mp4",
+      "source_size": 2619723,
+      "preset": "optimize-video",
+      "audio_mode": "remove",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_2.mp4 -> pages.json position 3",
+      "trim_start": null,
+      "trim_end": null
+    },
+    "video-3": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg003_sec001.mp4",
       "section_id": "pg003_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_2.mp4",
-      "source_size": 57938142,
+      "source_name": "page_3.mp4",
+      "source_size": 1728181,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 2",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_3.mp4 -> pages.json position 4",
       "trim_start": null,
       "trim_end": null
     },
-    "video-3": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-4": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg004_sec001.mp4",
       "section_id": "pg004_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_3.mp4",
-      "source_size": 44681552,
+      "source_name": "page_4.mp4",
+      "source_size": 1207676,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 3",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_4.mp4 -> pages.json position 5",
       "trim_start": null,
       "trim_end": null
     },
-    "video-4": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-5": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg005_sec001.mp4",
       "section_id": "pg005_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_4.mp4",
-      "source_size": 73915303,
+      "source_name": "page_5.mp4",
+      "source_size": 2358872,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 4",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_5.mp4 -> pages.json position 6",
       "trim_start": null,
       "trim_end": null
     },
-    "video-5": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-6": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg006_sec001.mp4",
       "section_id": "pg006_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_5.mp4",
-      "source_size": 58052683,
+      "source_name": "page_6.mp4",
+      "source_size": 1820991,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 5",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_6.mp4 -> pages.json position 7",
       "trim_start": null,
       "trim_end": null
     },
-    "video-6": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-7": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg007_sec001.mp4",
       "section_id": "pg007_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_6.mp4",
-      "source_size": 25028599,
+      "source_name": "page_7.mp4",
+      "source_size": 791028,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 6",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_7.mp4 -> pages.json position 8",
       "trim_start": null,
       "trim_end": null
     },
-    "video-7": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-8": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg008_sec001.mp4",
       "section_id": "pg008_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_7.mp4",
-      "source_size": 28836103,
+      "source_name": "page_8.mp4",
+      "source_size": 1010589,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 7",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_8.mp4 -> pages.json position 9",
       "trim_start": null,
       "trim_end": null
     },
-    "video-8": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-9": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg009_sec001.mp4",
       "section_id": "pg009_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_8.mp4",
-      "source_size": 30263182,
+      "source_name": "page_9.mp4",
+      "source_size": 1039969,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 8",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_9.mp4 -> pages.json position 10",
       "trim_start": null,
       "trim_end": null
     },
-    "video-9": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-10": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg010_sec001.mp4",
       "section_id": "pg010_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_9.mp4",
-      "source_size": 23974075,
+      "source_name": "page_10.mp4",
+      "source_size": 721676,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 9",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_10.mp4 -> pages.json position 11",
       "trim_start": null,
       "trim_end": null
     },
-    "video-10": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-11": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg011_sec001.mp4",
       "section_id": "pg011_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_10.mp4",
-      "source_size": 33396225,
+      "source_name": "page_11.mp4",
+      "source_size": 1129408,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 10",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_11.mp4 -> pages.json position 12",
       "trim_start": null,
       "trim_end": null
     },
-    "video-11": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-12": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg012_sec001.mp4",
       "section_id": "pg012_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_11.mp4",
-      "source_size": 30795911,
+      "source_name": "page_12.mp4",
+      "source_size": 874983,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 11",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_12.mp4 -> pages.json position 13",
       "trim_start": null,
       "trim_end": null
     },
-    "video-12": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-13": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg013_sec001.mp4",
       "section_id": "pg013_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_12.mp4",
-      "source_size": 30461663,
+      "source_name": "page_13.mp4",
+      "source_size": 1067131,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 12",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_13.mp4 -> pages.json position 14",
       "trim_start": null,
       "trim_end": null
     },
-    "video-13": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-14": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg014_sec001.mp4",
       "section_id": "pg014_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_13.mp4",
-      "source_size": 34685564,
+      "source_name": "page_14.mp4",
+      "source_size": 911595,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 13",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_14.mp4 -> pages.json position 15",
       "trim_start": null,
       "trim_end": null
     },
-    "video-14": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-15": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg015_sec001.mp4",
       "section_id": "pg015_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_14.mp4",
-      "source_size": 48151910,
+      "source_name": "page_15.mp4",
+      "source_size": 1416736,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 14",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_15.mp4 -> pages.json position 16",
       "trim_start": null,
       "trim_end": null
     },
-    "video-15": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-16": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg016_sec001.mp4",
       "section_id": "pg016_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_15.mp4",
-      "source_size": 52406503,
+      "source_name": "page_16.mp4",
+      "source_size": 1372738,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 15",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_16.mp4 -> pages.json position 17",
       "trim_start": null,
       "trim_end": null
     },
-    "video-16": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-17": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg017_sec001.mp4",
       "section_id": "pg017_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_16.mp4",
-      "source_size": 54986369,
+      "source_name": "page_17.mp4",
+      "source_size": 1670950,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 16",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_17.mp4 -> pages.json position 18",
       "trim_start": null,
       "trim_end": null
     },
-    "video-17": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-18": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg018_sec001.mp4",
       "section_id": "pg018_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_17.mp4",
-      "source_size": 67372580,
+      "source_name": "page_18.mp4",
+      "source_size": 2038449,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 17",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_18.mp4 -> pages.json position 19",
       "trim_start": null,
       "trim_end": null
     },
-    "video-18": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-19": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg019_sec001.mp4",
       "section_id": "pg019_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_18.mp4",
-      "source_size": 57427222,
+      "source_name": "page_19.mp4",
+      "source_size": 1903783,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 18",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_19.mp4 -> pages.json position 20",
       "trim_start": null,
       "trim_end": null
     },
-    "video-19": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-20": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg020_sec001.mp4",
       "section_id": "pg020_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_19.mp4",
-      "source_size": 77086071,
+      "source_name": "page_20.mp4",
+      "source_size": 2428267,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 19",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_20.mp4 -> pages.json position 21",
       "trim_start": null,
       "trim_end": null
     },
-    "video-20": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-21": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg021_sec001.mp4",
       "section_id": "pg021_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_20.mp4",
-      "source_size": 46347239,
+      "source_name": "page_21.mp4",
+      "source_size": 1410740,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 20",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_21.mp4 -> pages.json position 22",
       "trim_start": null,
       "trim_end": null
     },
-    "video-21": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-22": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg022_sec001.mp4",
       "section_id": "pg022_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_21.mp4",
-      "source_size": 91573156,
+      "source_name": "page_22.mp4",
+      "source_size": 2477819,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 21",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_22.mp4 -> pages.json position 23",
       "trim_start": null,
       "trim_end": null
     },
-    "video-22": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-23": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg023_sec001.mp4",
       "section_id": "pg023_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_22.mp4",
-      "source_size": 88081994,
+      "source_name": "page_23.mp4",
+      "source_size": 2839438,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 22",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_23.mp4 -> pages.json position 24",
       "trim_start": null,
       "trim_end": null
     },
-    "video-23": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-24": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg024_sec001.mp4",
       "section_id": "pg024_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_23.mp4",
-      "source_size": 33543016,
+      "source_name": "page_24.mp4",
+      "source_size": 1121309,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 23",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_24.mp4 -> pages.json position 25",
       "trim_start": null,
       "trim_end": null
     },
-    "video-24": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-25": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg025_sec001.mp4",
       "section_id": "pg025_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_24.mp4",
-      "source_size": 82017560,
+      "source_name": "page_25.mp4",
+      "source_size": 2278088,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 24",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_25.mp4 -> pages.json position 26",
       "trim_start": null,
       "trim_end": null
     },
-    "video-25": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-26": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg026_sec001.mp4",
       "section_id": "pg026_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_25.mp4",
-      "source_size": 113918331,
+      "source_name": "page_26.mp4",
+      "source_size": 3107815,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 25",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_26.mp4 -> pages.json position 27",
       "trim_start": null,
       "trim_end": null
     },
-    "video-26": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-27": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz001.mp4",
       "section_id": "qz001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_26.mp4",
-      "source_size": 10270700,
+      "source_name": "page_27.mp4",
+      "source_size": 406015,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 26",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_27.mp4 -> pages.json position 28",
       "trim_start": null,
       "trim_end": null
     },
-    "video-27": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-28": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg027_sec001.mp4",
       "section_id": "pg027_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_27.mp4",
-      "source_size": 49032367,
+      "source_name": "page_28.mp4",
+      "source_size": 1456285,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 27",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_28.mp4 -> pages.json position 29",
       "trim_start": null,
       "trim_end": null
     },
-    "video-28": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-29": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg028_sec001.mp4",
       "section_id": "pg028_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_28.mp4",
-      "source_size": 74022264,
+      "source_name": "page_29.mp4",
+      "source_size": 2249948,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 28",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_29.mp4 -> pages.json position 30",
       "trim_start": null,
       "trim_end": null
     },
-    "video-29": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-30": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg029_sec001.mp4",
       "section_id": "pg029_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_29.mp4",
-      "source_size": 133550174,
+      "source_name": "page_30.mp4",
+      "source_size": 3639964,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 29",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_30.mp4 -> pages.json position 31",
       "trim_start": null,
       "trim_end": null
     },
-    "video-30": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-31": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg030_sec001.mp4",
       "section_id": "pg030_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_30.mp4",
-      "source_size": 48126962,
+      "source_name": "page_31.mp4",
+      "source_size": 1398062,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 30",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_31.mp4 -> pages.json position 32",
       "trim_start": null,
       "trim_end": null
     },
-    "video-31": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-32": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg031_sec001.mp4",
       "section_id": "pg031_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_31.mp4",
-      "source_size": 87573245,
+      "source_name": "page_32.mp4",
+      "source_size": 2237272,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 31",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_32.mp4 -> pages.json position 33",
       "trim_start": null,
       "trim_end": null
     },
-    "video-32": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-33": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg032_sec001.mp4",
       "section_id": "pg032_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_32.mp4",
-      "source_size": 95376113,
+      "source_name": "page_33.mp4",
+      "source_size": 3104842,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 32",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_33.mp4 -> pages.json position 34",
       "trim_start": null,
       "trim_end": null
     },
-    "video-33": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-34": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg033_sec001.mp4",
       "section_id": "pg033_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_33.mp4",
-      "source_size": 18316127,
+      "source_name": "page_34.mp4",
+      "source_size": 563374,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 33",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_34.mp4 -> pages.json position 35",
       "trim_start": null,
       "trim_end": null
     },
-    "video-34": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-35": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg033_sec002.mp4",
       "section_id": "pg033_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_34.mp4",
-      "source_size": 13429792,
+      "source_name": "page_35.mp4",
+      "source_size": 497299,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 34",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_35.mp4 -> pages.json position 36",
       "trim_start": null,
       "trim_end": null
     },
-    "video-35": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-36": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg034_sec001.mp4",
       "section_id": "pg034_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_35.mp4",
-      "source_size": 4393339,
+      "source_name": "page_36.mp4",
+      "source_size": 4278508,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 35",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_36.mp4 -> pages.json position 37",
       "trim_start": null,
       "trim_end": null
     },
-    "video-36": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-37": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg035_sec001.mp4",
       "section_id": "pg035_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_36.mp4",
-      "source_size": 159093207,
+      "source_name": "page_37.mp4",
+      "source_size": 3523708,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 36",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_37.mp4 -> pages.json position 38",
       "trim_start": null,
       "trim_end": null
     },
-    "video-37": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-38": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg036_sec001.mp4",
       "section_id": "pg036_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_37.mp4",
-      "source_size": 49988361,
+      "source_name": "page_38.mp4",
+      "source_size": 1752924,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 37",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_38.mp4 -> pages.json position 39",
       "trim_start": null,
       "trim_end": null
     },
-    "video-38": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-39": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg037_sec001.mp4",
       "section_id": "pg037_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_38.mp4",
-      "source_size": 55877504,
+      "source_name": "page_39.mp4",
+      "source_size": 1683749,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 38",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_39.mp4 -> pages.json position 40",
       "trim_start": null,
       "trim_end": null
     },
-    "video-39": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-40": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg038_sec001.mp4",
       "section_id": "pg038_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_39.mp4",
-      "source_size": 93924593,
+      "source_name": "page_40.mp4",
+      "source_size": 2696701,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 39",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_40.mp4 -> pages.json position 41",
       "trim_start": null,
       "trim_end": null
     },
-    "video-40": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-41": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg039_sec001.mp4",
       "section_id": "pg039_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_40.mp4",
-      "source_size": 106704558,
+      "source_name": "page_41.mp4",
+      "source_size": 3244389,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 40",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_41.mp4 -> pages.json position 42",
       "trim_start": null,
       "trim_end": null
     },
-    "video-41": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-42": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg040_sec001.mp4",
       "section_id": "pg040_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_41.mp4",
-      "source_size": 35839166,
+      "source_name": "page_42.mp4",
+      "source_size": 1167884,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 41",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_42.mp4 -> pages.json position 43",
       "trim_start": null,
       "trim_end": null
     },
-    "video-42": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-43": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg040_sec002.mp4",
       "section_id": "pg040_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_42.mp4",
-      "source_size": 11214256,
+      "source_name": "page_43.mp4",
+      "source_size": 366230,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 42",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_43.mp4 -> pages.json position 44",
       "trim_start": null,
       "trim_end": null
     },
-    "video-43": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-44": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg040_sec003.mp4",
       "section_id": "pg040_sec003",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_43.mp4",
-      "source_size": 22037240,
+      "source_name": "page_44.mp4",
+      "source_size": 574027,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 43",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_44.mp4 -> pages.json position 45",
       "trim_start": null,
       "trim_end": null
     },
-    "video-44": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-45": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg041_sec001.mp4",
       "section_id": "pg041_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_44.mp4",
-      "source_size": 41241250,
+      "source_name": "page_45.mp4",
+      "source_size": 1256149,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 44",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_45.mp4 -> pages.json position 46",
       "trim_start": null,
       "trim_end": null
     },
-    "video-45": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-46": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg042_sec001.mp4",
       "section_id": "pg042_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_45.mp4",
-      "source_size": 57735826,
+      "source_name": "page_46.mp4",
+      "source_size": 1994612,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 45",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_46.mp4 -> pages.json position 47",
       "trim_start": null,
       "trim_end": null
     },
-    "video-46": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-47": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg043_sec001.mp4",
       "section_id": "pg043_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_46.mp4",
-      "source_size": 97475789,
+      "source_name": "page_47.mp4",
+      "source_size": 2958446,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 46",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_47.mp4 -> pages.json position 48",
       "trim_start": null,
       "trim_end": null
     },
-    "video-47": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-48": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz002.mp4",
       "section_id": "qz002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_47.mp4",
-      "source_size": 12122299,
+      "source_name": "page_48.mp4",
+      "source_size": 381042,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 47",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_48.mp4 -> pages.json position 49",
       "trim_start": null,
       "trim_end": null
     },
-    "video-48": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-49": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg044_sec001.mp4",
       "section_id": "pg044_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_48.mp4",
-      "source_size": 58364011,
+      "source_name": "page_49.mp4",
+      "source_size": 1752891,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 48",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_49.mp4 -> pages.json position 50",
       "trim_start": null,
       "trim_end": null
     },
-    "video-49": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-50": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg045_sec001.mp4",
       "section_id": "pg045_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_49.mp4",
-      "source_size": 29174312,
+      "source_name": "page_50.mp4",
+      "source_size": 886057,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 49",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_50.mp4 -> pages.json position 51",
       "trim_start": null,
       "trim_end": null
     },
-    "video-50": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-51": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg046_sec001.mp4",
       "section_id": "pg046_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_50.mp4",
-      "source_size": 45888098,
+      "source_name": "page_51.mp4",
+      "source_size": 1295717,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 50",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_51.mp4 -> pages.json position 52",
       "trim_start": null,
       "trim_end": null
     },
-    "video-51": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-52": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg047_sec001.mp4",
       "section_id": "pg047_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_51.mp4",
-      "source_size": 64255468,
+      "source_name": "page_52.mp4",
+      "source_size": 2016235,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 51",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_52.mp4 -> pages.json position 53",
       "trim_start": null,
       "trim_end": null
     },
-    "video-52": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-53": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg048_sec001.mp4",
       "section_id": "pg048_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_52.mp4",
-      "source_size": 119723730,
+      "source_name": "page_53.mp4",
+      "source_size": 3467171,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 52",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_53.mp4 -> pages.json position 54",
       "trim_start": null,
       "trim_end": null
     },
-    "video-53": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-54": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg049_sec001.mp4",
       "section_id": "pg049_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_53.mp4",
-      "source_size": 27874064,
+      "source_name": "page_54.mp4",
+      "source_size": 923305,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 53",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_54.mp4 -> pages.json position 55",
       "trim_start": null,
       "trim_end": null
     },
-    "video-54": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-55": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg049_sec002.mp4",
       "section_id": "pg049_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_54.mp4",
-      "source_size": 19493027,
+      "source_name": "page_55.mp4",
+      "source_size": 658024,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 54",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_55.mp4 -> pages.json position 56",
       "trim_start": null,
       "trim_end": null
     },
-    "video-55": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-56": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg049_sec003.mp4",
       "section_id": "pg049_sec003",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_55.mp4",
-      "source_size": 16358258,
+      "source_name": "page_56.mp4",
+      "source_size": 451452,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 55",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_56.mp4 -> pages.json position 57",
       "trim_start": null,
       "trim_end": null
     },
-    "video-56": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-57": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg050_sec001.mp4",
       "section_id": "pg050_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_56.mp4",
-      "source_size": 24692227,
+      "source_name": "page_57.mp4",
+      "source_size": 846755,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 56",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_57.mp4 -> pages.json position 58",
       "trim_start": null,
       "trim_end": null
     },
-    "video-57": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-58": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg051_sec001.mp4",
       "section_id": "pg051_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_57.mp4",
-      "source_size": 26033416,
+      "source_name": "page_58.mp4",
+      "source_size": 935038,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 57",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_58.mp4 -> pages.json position 59",
       "trim_start": null,
       "trim_end": null
     },
-    "video-58": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-59": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg052_sec001.mp4",
       "section_id": "pg052_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_58.mp4",
-      "source_size": 108533864,
+      "source_name": "page_59.mp4",
+      "source_size": 2820612,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 58",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_59.mp4 -> pages.json position 60",
       "trim_start": null,
       "trim_end": null
     },
-    "video-59": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-60": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg053_sec001.mp4",
       "section_id": "pg053_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_59.mp4",
-      "source_size": 149364298,
+      "source_name": "page_60.mp4",
+      "source_size": 4027661,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 59",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_60.mp4 -> pages.json position 61",
       "trim_start": null,
       "trim_end": null
     },
-    "video-60": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-61": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg054_sec001.mp4",
       "section_id": "pg054_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_60.mp4",
-      "source_size": 75615935,
+      "source_name": "page_61.mp4",
+      "source_size": 2107331,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 60",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_61.mp4 -> pages.json position 62",
       "trim_start": null,
       "trim_end": null
     },
-    "video-61": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-62": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg055_sec001.mp4",
       "section_id": "pg055_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_61.mp4",
-      "source_size": 37254433,
+      "source_name": "page_62.mp4",
+      "source_size": 1063496,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 61",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_62.mp4 -> pages.json position 63",
       "trim_start": null,
       "trim_end": null
     },
-    "video-62": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-63": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg056_sec001.mp4",
       "section_id": "pg056_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_62.mp4",
-      "source_size": 41571653,
+      "source_name": "page_63.mp4",
+      "source_size": 1372743,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 62",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_63.mp4 -> pages.json position 64",
       "trim_start": null,
       "trim_end": null
     },
-    "video-63": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-64": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz003.mp4",
       "section_id": "qz003",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_63.mp4",
-      "source_size": 10720080,
+      "source_name": "page_64.mp4",
+      "source_size": 329183,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 63",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_64.mp4 -> pages.json position 65",
       "trim_start": null,
       "trim_end": null
     },
-    "video-64": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-65": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg057_sec001.mp4",
       "section_id": "pg057_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_64.mp4",
-      "source_size": 125347149,
+      "source_name": "page_65.mp4",
+      "source_size": 3815892,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 64",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_65.mp4 -> pages.json position 66",
       "trim_start": null,
       "trim_end": null
     },
-    "video-65": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-66": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg058_sec001.mp4",
       "section_id": "pg058_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_65.mp4",
-      "source_size": 60535603,
+      "source_name": "page_66.mp4",
+      "source_size": 1994219,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 65",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_66.mp4 -> pages.json position 67",
       "trim_start": null,
       "trim_end": null
     },
-    "video-66": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-67": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg059_sec001.mp4",
       "section_id": "pg059_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_66.mp4",
-      "source_size": 51821772,
+      "source_name": "page_67.mp4",
+      "source_size": 1263887,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 66",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_67.mp4 -> pages.json position 68",
       "trim_start": null,
       "trim_end": null
     },
-    "video-67": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-68": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg060_sec001.mp4",
       "section_id": "pg060_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_67.mp4",
-      "source_size": 43005175,
+      "source_name": "page_68.mp4",
+      "source_size": 1276387,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 67",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_68.mp4 -> pages.json position 69",
       "trim_start": null,
       "trim_end": null
     },
-    "video-68": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-69": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg061_sec001.mp4",
       "section_id": "pg061_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_68.mp4",
-      "source_size": 127338147,
+      "source_name": "page_69.mp4",
+      "source_size": 3250129,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 68",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_69.mp4 -> pages.json position 70",
       "trim_start": null,
       "trim_end": null
     },
-    "video-69": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-70": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg062_sec001.mp4",
       "section_id": "pg062_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_69.mp4",
-      "source_size": 69904398,
+      "source_name": "page_70.mp4",
+      "source_size": 1708888,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 69",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_70.mp4 -> pages.json position 71",
       "trim_start": null,
       "trim_end": null
     },
-    "video-70": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-71": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg063_sec001.mp4",
       "section_id": "pg063_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_70.mp4",
-      "source_size": 24031679,
+      "source_name": "page_71.mp4",
+      "source_size": 738835,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 70",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_71.mp4 -> pages.json position 72",
       "trim_start": null,
       "trim_end": null
     },
-    "video-71": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-72": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg064_sec001.mp4",
       "section_id": "pg064_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_71.mp4",
-      "source_size": 188937327,
+      "source_name": "page_72.mp4",
+      "source_size": 3620589,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 71",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_72.mp4 -> pages.json position 73",
       "trim_start": null,
       "trim_end": null
     },
-    "video-72": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-73": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg065_sec001.mp4",
       "section_id": "pg065_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_72.mp4",
-      "source_size": 51915938,
+      "source_name": "page_73.mp4",
+      "source_size": 1098717,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 72",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_73.mp4 -> pages.json position 74",
       "trim_start": null,
       "trim_end": null
     },
-    "video-73": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-74": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg065_sec002.mp4",
       "section_id": "pg065_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_73.mp4",
-      "source_size": 55074946,
+      "source_name": "page_74.mp4",
+      "source_size": 1368205,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 73",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_74.mp4 -> pages.json position 75",
       "trim_start": null,
       "trim_end": null
     },
-    "video-74": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-75": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg066_sec001.mp4",
       "section_id": "pg066_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_74.mp4",
-      "source_size": 53005031,
+      "source_name": "page_75.mp4",
+      "source_size": 1358626,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 74",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_75.mp4 -> pages.json position 76",
       "trim_start": null,
       "trim_end": null
     },
-    "video-75": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-76": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg067_sec001.mp4",
       "section_id": "pg067_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_75.mp4",
-      "source_size": 78001708,
+      "source_name": "page_76.mp4",
+      "source_size": 2023333,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 75",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_76.mp4 -> pages.json position 77",
       "trim_start": null,
       "trim_end": null
     },
-    "video-76": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-77": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg068_sec001.mp4",
       "section_id": "pg068_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_76.mp4",
-      "source_size": 147975926,
+      "source_name": "page_77.mp4",
+      "source_size": 3407233,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 76",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_77.mp4 -> pages.json position 78",
       "trim_start": null,
       "trim_end": null
     },
-    "video-77": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-78": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg069_sec001.mp4",
       "section_id": "pg069_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_77.mp4",
-      "source_size": 25398378,
+      "source_name": "page_78.mp4",
+      "source_size": 560923,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 77",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_78.mp4 -> pages.json position 79",
       "trim_start": null,
       "trim_end": null
     },
-    "video-78": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-79": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg069_sec002.mp4",
       "section_id": "pg069_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_78.mp4",
-      "source_size": 25504152,
+      "source_name": "page_79.mp4",
+      "source_size": 580670,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 78",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_79.mp4 -> pages.json position 80",
       "trim_start": null,
       "trim_end": null
     },
-    "video-79": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-80": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg069_sec003.mp4",
       "section_id": "pg069_sec003",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_79.mp4",
-      "source_size": 18254424,
+      "source_name": "page_80.mp4",
+      "source_size": 418724,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 79",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_80.mp4 -> pages.json position 81",
       "trim_start": null,
       "trim_end": null
     },
-    "video-80": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-81": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz004.mp4",
       "section_id": "qz004",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_80.mp4",
-      "source_size": 20281351,
+      "source_name": "page_81.mp4",
+      "source_size": 445275,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 80",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_81.mp4 -> pages.json position 82",
       "trim_start": null,
       "trim_end": null
     },
-    "video-81": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-82": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg070_sec001.mp4",
       "section_id": "pg070_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_81.mp4",
-      "source_size": 26354411,
+      "source_name": "page_82.mp4",
+      "source_size": 939110,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 81",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_82.mp4 -> pages.json position 83",
       "trim_start": null,
       "trim_end": null
     },
-    "video-82": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-83": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg071_sec001.mp4",
       "section_id": "pg071_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_82.mp4",
-      "source_size": 30159053,
+      "source_name": "page_83.mp4",
+      "source_size": 999343,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 82",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_83.mp4 -> pages.json position 84",
       "trim_start": null,
       "trim_end": null
     },
-    "video-83": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-84": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg072_sec001.mp4",
       "section_id": "pg072_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_83.mp4",
-      "source_size": 61810146,
+      "source_name": "page_84.mp4",
+      "source_size": 1707478,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 83",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_84.mp4 -> pages.json position 85",
       "trim_start": null,
       "trim_end": null
     },
-    "video-84": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-85": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg073_sec001.mp4",
       "section_id": "pg073_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_84.mp4",
-      "source_size": 121979789,
+      "source_name": "page_85.mp4",
+      "source_size": 3846091,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 84",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_85.mp4 -> pages.json position 86",
       "trim_start": null,
       "trim_end": null
     },
-    "video-85": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-86": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg074_sec001.mp4",
       "section_id": "pg074_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_85.mp4",
-      "source_size": 116727736,
+      "source_name": "page_86.mp4",
+      "source_size": 3031716,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 85",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_86.mp4 -> pages.json position 87",
       "trim_start": null,
       "trim_end": null
     },
-    "video-86": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-87": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg075_sec001.mp4",
       "section_id": "pg075_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_86.mp4",
-      "source_size": 25768765,
+      "source_name": "page_87.mp4",
+      "source_size": 841456,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 86",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_87.mp4 -> pages.json position 88",
       "trim_start": null,
       "trim_end": null
     },
-    "video-87": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-88": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg076_sec001.mp4",
       "section_id": "pg076_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_87.mp4",
-      "source_size": 84268216,
+      "source_name": "page_88.mp4",
+      "source_size": 2244633,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 87",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_88.mp4 -> pages.json position 89",
       "trim_start": null,
       "trim_end": null
     },
-    "video-88": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-89": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg077_sec001.mp4",
       "section_id": "pg077_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_88.mp4",
-      "source_size": 124192450,
+      "source_name": "page_89.mp4",
+      "source_size": 3307015,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 88",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_89.mp4 -> pages.json position 90",
       "trim_start": null,
       "trim_end": null
     },
-    "video-89": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-90": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg078_sec001.mp4",
       "section_id": "pg078_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_89.mp4",
-      "source_size": 42740288,
+      "source_name": "page_90.mp4",
+      "source_size": 1007086,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 89",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_90.mp4 -> pages.json position 91",
       "trim_start": null,
       "trim_end": null
     },
-    "video-90": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-91": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg079_sec001.mp4",
       "section_id": "pg079_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_90.mp4",
-      "source_size": 53177983,
+      "source_name": "page_91.mp4",
+      "source_size": 1187345,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 90",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_91.mp4 -> pages.json position 92",
       "trim_start": null,
       "trim_end": null
     },
-    "video-91": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-92": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg080_sec001.mp4",
       "section_id": "pg080_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_91.mp4",
-      "source_size": 100988268,
+      "source_name": "page_92.mp4",
+      "source_size": 2187412,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 91",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_92.mp4 -> pages.json position 93",
       "trim_start": null,
       "trim_end": null
     },
-    "video-92": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-93": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg081_sec001.mp4",
       "section_id": "pg081_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_92.mp4",
-      "source_size": 121188562,
+      "source_name": "page_93.mp4",
+      "source_size": 3165649,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 92",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_93.mp4 -> pages.json position 94",
       "trim_start": null,
       "trim_end": null
     },
-    "video-93": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-94": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg082_sec001.mp4",
       "section_id": "pg082_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_93.mp4",
-      "source_size": 110567121,
+      "source_name": "page_94.mp4",
+      "source_size": 2579494,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 93",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_94.mp4 -> pages.json position 95",
       "trim_start": null,
       "trim_end": null
     },
-    "video-94": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-95": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg083_sec001.mp4",
       "section_id": "pg083_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_94.mp4",
-      "source_size": 93204838,
+      "source_name": "page_95.mp4",
+      "source_size": 2292465,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 94",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_95.mp4 -> pages.json position 96",
       "trim_start": null,
       "trim_end": null
     },
-    "video-95": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-96": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz005.mp4",
       "section_id": "qz005",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_95.mp4",
-      "source_size": 16496786,
+      "source_name": "page_96.mp4",
+      "source_size": 415048,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 95",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_96.mp4 -> pages.json position 97",
       "trim_start": null,
       "trim_end": null
     },
-    "video-96": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-97": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg084_sec001.mp4",
       "section_id": "pg084_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_96.mp4",
-      "source_size": 89322034,
+      "source_name": "page_97.mp4",
+      "source_size": 2450290,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 96",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_97.mp4 -> pages.json position 98",
       "trim_start": null,
       "trim_end": null
     },
-    "video-97": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-98": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg085_sec001.mp4",
       "section_id": "pg085_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_97.mp4",
-      "source_size": 70622149,
+      "source_name": "page_98.mp4",
+      "source_size": 1562668,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 97",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_98.mp4 -> pages.json position 99",
       "trim_start": null,
       "trim_end": null
     },
-    "video-98": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-99": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg086_sec001.mp4",
       "section_id": "pg086_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_98.mp4",
-      "source_size": 102091980,
+      "source_name": "page_99.mp4",
+      "source_size": 2374714,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 98",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_99.mp4 -> pages.json position 100",
       "trim_start": null,
       "trim_end": null
     },
-    "video-99": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-100": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg087_sec001.mp4",
       "section_id": "pg087_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_99.mp4",
-      "source_size": 135110502,
+      "source_name": "page_100.mp4",
+      "source_size": 3160526,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 99",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_100.mp4 -> pages.json position 101",
       "trim_start": null,
       "trim_end": null
     },
-    "video-100": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-101": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg088_sec001.mp4",
       "section_id": "pg088_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_100.mp4",
-      "source_size": 80558464,
+      "source_name": "page_101.mp4",
+      "source_size": 1986886,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 100",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_101.mp4 -> pages.json position 102",
       "trim_start": null,
       "trim_end": null
     },
-    "video-101": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-102": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg089_sec001.mp4",
       "section_id": "pg089_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_101.mp4",
-      "source_size": 37440702,
+      "source_name": "page_102.mp4",
+      "source_size": 997458,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 101",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_102.mp4 -> pages.json position 103",
       "trim_start": null,
       "trim_end": null
     },
-    "video-102": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-103": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg090_sec001.mp4",
       "section_id": "pg090_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_102.mp4",
-      "source_size": 110000929,
+      "source_name": "page_103.mp4",
+      "source_size": 2134654,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 102",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_103.mp4 -> pages.json position 104",
       "trim_start": null,
       "trim_end": null
     },
-    "video-103": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-104": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg091_sec001.mp4",
       "section_id": "pg091_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_103.mp4",
-      "source_size": 115717342,
+      "source_name": "page_104.mp4",
+      "source_size": 2735455,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 103",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_104.mp4 -> pages.json position 105",
       "trim_start": null,
       "trim_end": null
     },
-    "video-104": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-105": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg091_sec002.mp4",
       "section_id": "pg091_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_104.mp4",
-      "source_size": 26261532,
+      "source_name": "page_105.mp4",
+      "source_size": 544638,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 104",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_105.mp4 -> pages.json position 106",
       "trim_start": null,
       "trim_end": null
     },
-    "video-105": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-106": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg092_sec001.mp4",
       "section_id": "pg092_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_105.mp4",
-      "source_size": 75456020,
+      "source_name": "page_106.mp4",
+      "source_size": 1746155,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 105",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_106.mp4 -> pages.json position 107",
       "trim_start": null,
       "trim_end": null
     },
-    "video-106": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-107": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg093_sec001.mp4",
       "section_id": "pg093_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_106.mp4",
-      "source_size": 44467490,
+      "source_name": "page_107.mp4",
+      "source_size": 1001547,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 106",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_107.mp4 -> pages.json position 108",
       "trim_start": null,
       "trim_end": null
     },
-    "video-107": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-108": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg094_sec001.mp4",
       "section_id": "pg094_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_107.mp4",
-      "source_size": 102628995,
+      "source_name": "page_108.mp4",
+      "source_size": 1973383,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 107",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_108.mp4 -> pages.json position 109",
       "trim_start": null,
       "trim_end": null
     },
-    "video-108": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-109": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg095_sec001.mp4",
       "section_id": "pg095_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_108.mp4",
-      "source_size": 129231903,
+      "source_name": "page_109.mp4",
+      "source_size": 2945565,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 108",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_109.mp4 -> pages.json position 110",
       "trim_start": null,
       "trim_end": null
     },
-    "video-109": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-110": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg096_sec001.mp4",
       "section_id": "pg096_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_109.mp4",
-      "source_size": 55423851,
+      "source_name": "page_110.mp4",
+      "source_size": 1162760,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 109",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_110.mp4 -> pages.json position 111",
       "trim_start": null,
       "trim_end": null
     },
-    "video-110": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-111": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz006.mp4",
       "section_id": "qz006",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "Page_110.mp4",
-      "source_size": 14608134,
+      "source_name": "page_111.mp4",
+      "source_size": 440387,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 110",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_111.mp4 -> pages.json position 112",
       "trim_start": null,
       "trim_end": null
     },
-    "video-111": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-112": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg097_sec001.mp4",
       "section_id": "pg097_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_111.mp4",
-      "source_size": 34774009,
+      "source_name": "page_112.mp4",
+      "source_size": 856773,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 111",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_112.mp4 -> pages.json position 113",
       "trim_start": null,
       "trim_end": null
     },
-    "video-112": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-113": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg098_sec001.mp4",
       "section_id": "pg098_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_112.mp4",
-      "source_size": 124789288,
+      "source_name": "page_113.mp4",
+      "source_size": 2272355,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 112",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_113.mp4 -> pages.json position 114",
       "trim_start": null,
       "trim_end": null
     },
-    "video-113": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-114": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg099_sec001.mp4",
       "section_id": "pg099_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_113.mp4",
-      "source_size": 99685011,
+      "source_name": "page_114.mp4",
+      "source_size": 1694777,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 113",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_114.mp4 -> pages.json position 115",
       "trim_start": null,
       "trim_end": null
     },
-    "video-114": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-115": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg100_sec001.mp4",
       "section_id": "pg100_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_114.mp4",
-      "source_size": 85268368,
+      "source_name": "page_115.mp4",
+      "source_size": 1761423,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 114",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_115.mp4 -> pages.json position 116",
       "trim_start": null,
       "trim_end": null
     },
-    "video-115": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-116": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg101_sec001.mp4",
       "section_id": "pg101_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_115.mp4",
-      "source_size": 58847317,
+      "source_name": "page_116.mp4",
+      "source_size": 1285899,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 115",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_116.mp4 -> pages.json position 117",
       "trim_start": null,
       "trim_end": null
     },
-    "video-116": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-117": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg102_sec001.mp4",
       "section_id": "pg102_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_116.mp4",
-      "source_size": 189144314,
+      "source_name": "page_117.mp4",
+      "source_size": 3700829,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 116",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_117.mp4 -> pages.json position 118",
       "trim_start": null,
       "trim_end": null
     },
-    "video-117": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-118": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg103_sec001.mp4",
       "section_id": "pg103_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_117.mp4",
-      "source_size": 77513088,
+      "source_name": "page_118.mp4",
+      "source_size": 1751119,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 117",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_118.mp4 -> pages.json position 119",
       "trim_start": null,
       "trim_end": null
     },
-    "video-118": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-119": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg104_sec001.mp4",
       "section_id": "pg104_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_118.mp4",
-      "source_size": 79538762,
+      "source_name": "page_119.mp4",
+      "source_size": 1773120,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 118",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_119.mp4 -> pages.json position 120",
       "trim_start": null,
       "trim_end": null
     },
-    "video-119": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-120": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg104_sec002.mp4",
       "section_id": "pg104_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_119.mp4",
-      "source_size": 107163293,
+      "source_name": "page_120.mp4",
+      "source_size": 2413318,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 119",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_120.mp4 -> pages.json position 121",
       "trim_start": null,
       "trim_end": null
     },
-    "video-120": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-121": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg105_sec001.mp4",
       "section_id": "pg105_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_120.mp4",
-      "source_size": 38114311,
+      "source_name": "page_121.mp4",
+      "source_size": 1000425,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 120",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_121.mp4 -> pages.json position 122",
       "trim_start": null,
       "trim_end": null
     },
-    "video-121": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-122": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg106_sec001.mp4",
       "section_id": "pg106_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_121.mp4",
-      "source_size": 116947226,
+      "source_name": "page_122.mp4",
+      "source_size": 2271618,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 121",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_122.mp4 -> pages.json position 123",
       "trim_start": null,
       "trim_end": null
     },
-    "video-122": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-123": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg107_sec001.mp4",
       "section_id": "pg107_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_122.mp4",
-      "source_size": 143480974,
+      "source_name": "page_123.mp4",
+      "source_size": 2713058,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 122",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_123.mp4 -> pages.json position 124",
       "trim_start": null,
       "trim_end": null
     },
-    "video-123": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-124": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg108_sec001.mp4",
       "section_id": "pg108_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_123.mp4",
-      "source_size": 236399549,
+      "source_name": "page_124.mp4",
+      "source_size": 5083470,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 123",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_124.mp4 -> pages.json position 125",
       "trim_start": null,
       "trim_end": null
     },
-    "video-124": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-125": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz007.mp4",
       "section_id": "qz007",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_124.mp4",
-      "source_size": 26669921,
+      "source_name": "page_125.mp4",
+      "source_size": 471365,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 124",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_125.mp4 -> pages.json position 126",
       "trim_start": null,
       "trim_end": null
     },
-    "video-125": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-126": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg109_sec001.mp4",
       "section_id": "pg109_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_125.mp4",
-      "source_size": 108481797,
+      "source_name": "page_126.mp4",
+      "source_size": 2439580,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 125",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_126.mp4 -> pages.json position 127",
       "trim_start": null,
       "trim_end": null
     },
-    "video-126": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-127": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg110_sec001.mp4",
       "section_id": "pg110_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_126.mp4",
-      "source_size": 93493401,
+      "source_name": "page_127.mp4",
+      "source_size": 1790773,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 126",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_127.mp4 -> pages.json position 128",
       "trim_start": null,
       "trim_end": null
     },
-    "video-127": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-128": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg111_sec001.mp4",
       "section_id": "pg111_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_127.mp4",
-      "source_size": 161665929,
+      "source_name": "page_128.mp4",
+      "source_size": 3014281,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 127",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_128.mp4 -> pages.json position 129",
       "trim_start": null,
       "trim_end": null
     },
-    "video-128": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-129": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg112_sec001.mp4",
       "section_id": "pg112_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_128.mp4",
-      "source_size": 291698496,
+      "source_name": "page_129.mp4",
+      "source_size": 4487416,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 128",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_129.mp4 -> pages.json position 130",
       "trim_start": null,
       "trim_end": null
     },
-    "video-129": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-130": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg113_sec001.mp4",
       "section_id": "pg113_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_129.mp4",
-      "source_size": 91147184,
+      "source_name": "page_130.mp4",
+      "source_size": 1837474,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 129",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_130.mp4 -> pages.json position 131",
       "trim_start": null,
       "trim_end": null
     },
-    "video-130": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-131": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg114_sec001.mp4",
       "section_id": "pg114_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_130.mp4",
-      "source_size": 63078117,
+      "source_name": "page_131.mp4",
+      "source_size": 1316282,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 130",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_131.mp4 -> pages.json position 132",
       "trim_start": null,
       "trim_end": null
     },
-    "video-131": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-132": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg115_sec001.mp4",
       "section_id": "pg115_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_131.mp4",
-      "source_size": 146330754,
+      "source_name": "page_132.mp4",
+      "source_size": 2667313,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 131",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_132.mp4 -> pages.json position 133",
       "trim_start": null,
       "trim_end": null
     },
-    "video-132": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-133": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg116_sec001.mp4",
       "section_id": "pg116_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_132.mp4",
-      "source_size": 222663338,
+      "source_name": "page_133.mp4",
+      "source_size": 4730854,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 132",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_133.mp4 -> pages.json position 134",
       "trim_start": null,
       "trim_end": null
     },
-    "video-133": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-134": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg117_sec001.mp4",
       "section_id": "pg117_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_133.mp4",
-      "source_size": 179918003,
+      "source_name": "page_134.mp4",
+      "source_size": 3950021,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 133",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_134.mp4 -> pages.json position 135",
       "trim_start": null,
       "trim_end": null
     },
-    "video-134": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-135": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg118_sec001.mp4",
       "section_id": "pg118_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_134.mp4",
-      "source_size": 52253265,
+      "source_name": "page_135.mp4",
+      "source_size": 1136286,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 134",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_135.mp4 -> pages.json position 136",
       "trim_start": null,
       "trim_end": null
     },
-    "video-135": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-136": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg119_sec001.mp4",
       "section_id": "pg119_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_135.mp4",
-      "source_size": 132758566,
+      "source_name": "page_136.mp4",
+      "source_size": 3135786,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 135",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_136.mp4 -> pages.json position 137",
       "trim_start": null,
       "trim_end": null
     },
-    "video-136": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-137": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg120_sec001.mp4",
       "section_id": "pg120_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_136.mp4",
-      "source_size": 296024721,
+      "source_name": "page_137.mp4",
+      "source_size": 4994103,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 136",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_137.mp4 -> pages.json position 138",
       "trim_start": null,
       "trim_end": null
     },
-    "video-137": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-138": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg121_sec001.mp4",
       "section_id": "pg121_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_137.mp4",
-      "source_size": 114482817,
+      "source_name": "page_138.mp4",
+      "source_size": 2691482,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 137",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_138.mp4 -> pages.json position 139",
       "trim_start": null,
       "trim_end": null
     },
-    "video-138": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-139": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz008.mp4",
       "section_id": "qz008",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_138.mp4",
-      "source_size": 20585621,
+      "source_name": "page_139.mp4",
+      "source_size": 465300,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 138",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_139.mp4 -> pages.json position 140",
       "trim_start": null,
       "trim_end": null
     },
-    "video-139": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-140": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg122_sec001.mp4",
       "section_id": "pg122_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_139.mp4",
-      "source_size": 73749419,
+      "source_name": "page_140.mp4",
+      "source_size": 1456885,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 139",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_140.mp4 -> pages.json position 141",
       "trim_start": null,
       "trim_end": null
     },
-    "video-140": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-141": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg123_sec001.mp4",
       "section_id": "pg123_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_140.mp4",
-      "source_size": 169804929,
+      "source_name": "page_141.mp4",
+      "source_size": 3344207,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 140",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_141.mp4 -> pages.json position 142",
       "trim_start": null,
       "trim_end": null
     },
-    "video-141": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-142": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg124_sec001.mp4",
       "section_id": "pg124_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_141.mp4",
-      "source_size": 157191304,
+      "source_name": "page_142.mp4",
+      "source_size": 3575091,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 141",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_142.mp4 -> pages.json position 143",
       "trim_start": null,
       "trim_end": null
     },
-    "video-142": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-143": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg124_sec002.mp4",
       "section_id": "pg124_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_142.mp4",
-      "source_size": 112686174,
+      "source_name": "page_143.mp4",
+      "source_size": 2170357,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 142",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_143.mp4 -> pages.json position 144",
       "trim_start": null,
       "trim_end": null
     },
-    "video-143": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-144": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg124_sec003.mp4",
       "section_id": "pg124_sec003",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_143.mp4",
-      "source_size": 61668959,
+      "source_name": "page_144.mp4",
+      "source_size": 1049885,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 143",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_144.mp4 -> pages.json position 145",
       "trim_start": null,
       "trim_end": null
     },
-    "video-144": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-145": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg125_sec001.mp4",
       "section_id": "pg125_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_144.mp4",
-      "source_size": 123757868,
+      "source_name": "page_145.mp4",
+      "source_size": 2706406,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 144",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_145.mp4 -> pages.json position 146",
       "trim_start": null,
       "trim_end": null
     },
-    "video-145": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-146": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg126_sec001.mp4",
       "section_id": "pg126_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_145.mp4",
-      "source_size": 56771223,
+      "source_name": "page_146.mp4",
+      "source_size": 1216272,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 145",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_146.mp4 -> pages.json position 147",
       "trim_start": null,
       "trim_end": null
     },
-    "video-146": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-147": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg127_sec001.mp4",
       "section_id": "pg127_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_146.mp4",
-      "source_size": 117677742,
+      "source_name": "page_147.mp4",
+      "source_size": 2409839,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 146",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_147.mp4 -> pages.json position 148",
       "trim_start": null,
       "trim_end": null
     },
-    "video-147": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-148": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg128_sec001.mp4",
       "section_id": "pg128_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_147.mp4",
-      "source_size": 249055940,
+      "source_name": "page_148.mp4",
+      "source_size": 4901686,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 147",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_148.mp4 -> pages.json position 149",
       "trim_start": null,
       "trim_end": null
     },
-    "video-148": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-149": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg129_sec001.mp4",
       "section_id": "pg129_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_148.mp4",
-      "source_size": 139606466,
+      "source_name": "page_149.mp4",
+      "source_size": 3020428,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 148",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_149.mp4 -> pages.json position 150",
       "trim_start": null,
       "trim_end": null
     },
-    "video-149": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-150": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg130_sec001.mp4",
       "section_id": "pg130_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_149.mp4",
-      "source_size": 75369624,
+      "source_name": "page_150.mp4",
+      "source_size": 1416148,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 149",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_150.mp4 -> pages.json position 151",
       "trim_start": null,
       "trim_end": null
     },
-    "video-150": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-151": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg131_sec001.mp4",
       "section_id": "pg131_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_150.mp4",
-      "source_size": 129125317,
+      "source_name": "page_151.mp4",
+      "source_size": 2563712,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 150",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_151.mp4 -> pages.json position 152",
       "trim_start": null,
       "trim_end": null
     },
-    "video-151": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-152": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg132_sec001.mp4",
       "section_id": "pg132_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_151.mp4",
-      "source_size": 262930447,
+      "source_name": "page_152.mp4",
+      "source_size": 4497803,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 151",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_152.mp4 -> pages.json position 153",
       "trim_start": null,
       "trim_end": null
     },
-    "video-152": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-153": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg133_sec001.mp4",
       "section_id": "pg133_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_152.mp4",
-      "source_size": 111205584,
+      "source_name": "page_153.mp4",
+      "source_size": 2246221,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 152",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_153.mp4 -> pages.json position 154",
       "trim_start": null,
       "trim_end": null
     },
-    "video-153": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-154": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg134_sec001.mp4",
       "section_id": "pg134_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_153.mp4",
-      "source_size": 69187626,
+      "source_name": "page_154.mp4",
+      "source_size": 1344123,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 153",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_154.mp4 -> pages.json position 155",
       "trim_start": null,
       "trim_end": null
     },
-    "video-154": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-155": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg135_sec001.mp4",
       "section_id": "pg135_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_154.mp4",
-      "source_size": 169521483,
+      "source_name": "page_155.mp4",
+      "source_size": 3354414,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 154",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_155.mp4 -> pages.json position 156",
       "trim_start": null,
       "trim_end": null
     },
-    "video-155": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-156": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz009.mp4",
       "section_id": "qz009",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_155.mp4",
-      "source_size": 16651220,
+      "source_name": "page_156.mp4",
+      "source_size": 385654,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 155",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_156.mp4 -> pages.json position 157",
       "trim_start": null,
       "trim_end": null
     },
-    "video-156": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-157": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg136_sec001.mp4",
       "section_id": "pg136_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_156.mp4",
-      "source_size": 222918366,
+      "source_name": "page_157.mp4",
+      "source_size": 4477707,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 156",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_157.mp4 -> pages.json position 158",
       "trim_start": null,
       "trim_end": null
     },
-    "video-157": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-158": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg137_sec001.mp4",
       "section_id": "pg137_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_157.mp4",
-      "source_size": 68926649,
+      "source_name": "page_158.mp4",
+      "source_size": 1999188,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 157",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_158.mp4 -> pages.json position 159",
       "trim_start": null,
       "trim_end": null
     },
-    "video-158": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-159": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg138_sec001.mp4",
       "section_id": "pg138_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_158.mp4",
-      "source_size": 118110010,
+      "source_name": "page_159.mp4",
+      "source_size": 3590698,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 158",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_159.mp4 -> pages.json position 160",
       "trim_start": null,
       "trim_end": null
     },
-    "video-159": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-160": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg139_sec001.mp4",
       "section_id": "pg139_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_159.mp4",
-      "source_size": 72578249,
+      "source_name": "page_160.mp4",
+      "source_size": 1356786,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 159",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_160.mp4 -> pages.json position 161",
       "trim_start": null,
       "trim_end": null
     },
-    "video-160": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-161": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg140_sec001.mp4",
       "section_id": "pg140_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_160.mp4",
-      "source_size": 28049100,
+      "source_name": "page_161.mp4",
+      "source_size": 634765,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 160",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_161.mp4 -> pages.json position 162",
       "trim_start": null,
       "trim_end": null
     },
-    "video-161": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-162": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg141_sec001.mp4",
       "section_id": "pg141_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_161.mp4",
-      "source_size": 80782596,
+      "source_name": "page_162.mp4",
+      "source_size": 1912223,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 161",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_162.mp4 -> pages.json position 163",
       "trim_start": null,
       "trim_end": null
     },
-    "video-162": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-163": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg142_sec001.mp4",
       "section_id": "pg142_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_162.mp4",
-      "source_size": 87280722,
+      "source_name": "page_163.mp4",
+      "source_size": 2264383,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 162",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_163.mp4 -> pages.json position 164",
       "trim_start": null,
       "trim_end": null
     },
-    "video-163": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-164": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg142_sec002.mp4",
       "section_id": "pg142_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_163.mp4",
-      "source_size": 39035435,
+      "source_name": "page_164.mp4",
+      "source_size": 955271,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 163",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_164.mp4 -> pages.json position 165",
       "trim_start": null,
       "trim_end": null
     },
-    "video-164": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-165": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg143_sec001.mp4",
       "section_id": "pg143_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_164.mp4",
-      "source_size": 54200232,
+      "source_name": "page_165.mp4",
+      "source_size": 1460622,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 164",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_165.mp4 -> pages.json position 166",
       "trim_start": null,
       "trim_end": null
     },
-    "video-165": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-166": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg143_sec002.mp4",
       "section_id": "pg143_sec002",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_165.mp4",
-      "source_size": 36392445,
+      "source_name": "page_166.mp4",
+      "source_size": 854402,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 165",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_166.mp4 -> pages.json position 167",
       "trim_start": null,
       "trim_end": null
     },
-    "video-166": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-167": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_qz010.mp4",
       "section_id": "qz010",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_166.mp4",
-      "source_size": 24417478,
+      "source_name": "page_167.mp4",
+      "source_size": 687028,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 166",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_167.mp4 -> pages.json position 168",
       "trim_start": null,
       "trim_end": null
     },
-    "video-167": {
-      "imported_at": "2026-08-05T16:11:50.184Z",
+    "video-168": {
+      "imported_at": "2026-09-05T07:59:10.652Z",
       "filename": "sl_pg144_sec001.mp4",
       "section_id": "pg144_sec001",
       "languages": [
         "sw-TZ"
       ],
-      "source_name": "page_167.mp4",
-      "source_size": 66317622,
+      "source_name": "page_168.mp4",
+      "source_size": 1599660,
       "preset": "optimize-video",
       "audio_mode": "remove",
-      "assignment_method": "auto",
-      "assignment_reason": "video index 167",
+      "assignment_method": "manual",
+      "assignment_reason": "Page_168.mp4 -> pages.json position 169",
       "trim_start": null,
       "trim_end": null
     }
