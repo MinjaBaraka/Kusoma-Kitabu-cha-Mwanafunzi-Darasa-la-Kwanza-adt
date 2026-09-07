@@ -30,6 +30,7 @@
     .pg090-word-row { display: flex; flex-wrap: wrap; gap: .5rem 2.4rem; margin: .25rem 0 1rem 2.6rem; color: #231f20; font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.4rem, 2.6vw, 2rem); font-weight: 800; line-height: 1.2; }
     @media (max-width: 640px) { .pg090-intro { grid-template-columns: 1fr; gap: 1.5rem; } .pg090-letter-card { justify-self: end; } .pg090-exercise { border-radius: 1rem; } .pg090-tab { left: 0; } .pg090-board { gap: 1.5rem; padding: 1.25rem .8rem; } .pg090-word-row, .pg090-example-heading, .pg090-copy { margin-left: 1.65rem; } }
   </style>
+<link rel="stylesheet" href="./assets/sign-language-video.css">
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
@@ -64,9 +65,11 @@
 
   <div class="relative z-50" id="interface-container"></div>
   <div class="relative z-50" id="nav-container"></div>
-  <script src="./assets/offline-preloader.js?v=30"></script>
+  <script src="./assets/offline-preloader.js?v=14"></script>
   <script src="./assets/scorm.js"></script>
-  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./assets/media-playback-independence.js"></script>
+<script src="./assets/base.bundle.local.js?v=14"></script>
+<script src="./assets/sign-language-video.js"></script>
 </body>
 
 </html>
