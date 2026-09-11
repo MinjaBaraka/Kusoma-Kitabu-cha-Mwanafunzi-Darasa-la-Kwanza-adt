@@ -248,10 +248,6 @@
       <file href="content/i18n/sw-TZ/video/sl_pg002_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg003_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg004_sec001.mp4" />
-      <file href="content/i18n/sw-TZ/video/sl_pg005_sec001.mp4" />
-      <file href="content/i18n/sw-TZ/video/sl_pg006_sec001.mp4" />
-      <file href="content/i18n/sw-TZ/video/sl_pg007_sec001.mp4" />
-      <file href="content/i18n/sw-TZ/video/sl_pg008_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg009_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg010_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg011_sec001.mp4" />
@@ -324,9 +320,6 @@
       <file href="content/i18n/sw-TZ/video/sl_pg097_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg098_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg099_sec001.mp4" />
-      <file href="content/i18n/sw-TZ/video/sl_pg101_sec001.mp4" />
-      <file href="content/i18n/sw-TZ/video/sl_pg102_sec001.mp4" />
-      <file href="content/i18n/sw-TZ/video/sl_pg103_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg104_sec002.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg105_sec001.mp4" />
       <file href="content/i18n/sw-TZ/video/sl_pg107_sec001.mp4" />
@@ -382,6 +375,13 @@
       <file href="pg001_sec001.html" />
       <file href="pg002_sec001.html" />
       <file href="pg005_sec001.html" />
+      <file href="content/i18n/sw-TZ/video/page_117.mp4" />
+      <file href="content/i18n/sw-TZ/video/page_118.mp4" />
+      <file href="content/i18n/sw-TZ/video/page_119.mp4" />
+      <file href="content/i18n/sw-TZ/video/page_6.mp4" />
+      <file href="content/i18n/sw-TZ/video/page_7.mp4" />
+      <file href="content/i18n/sw-TZ/video/page_8.mp4" />
+      <file href="content/i18n/sw-TZ/video/page_9.mp4" />
 </resource>
   </resources>
 

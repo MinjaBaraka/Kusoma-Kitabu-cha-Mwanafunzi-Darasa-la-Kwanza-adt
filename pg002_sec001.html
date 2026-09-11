@@ -20,6 +20,7 @@
         .copyright-notice { margin-top: clamp(3.2rem, 7vh, 7rem); max-width: 72rem; }
         .tts-reader-trigger { position: absolute; inset: 0; z-index: 1; opacity: 0; }
     </style>
+
 <link rel="stylesheet" href="./assets/sign-language-video.css">
 </head>
 
@@ -55,11 +56,13 @@
     </main>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=14"></script>
+    <script src="./assets/offline-preloader.js?v=15"></script>
     <script src="./assets/scorm.js"></script>
-    <script src="./assets/media-playback-independence.js"></script>
-<script src="./assets/base.bundle.local.js?v=14"></script>
+    
+<script src="./assets/media-playback-independence.js"></script>
+<script src="./assets/base.bundle.local.js?v=15"></script>
 <script src="./assets/sign-language-video.js"></script>
+
     <script>
         (() => {
             const wordPattern = /[\p{L}\p{N}\p{M}]+(?:[’'-][\p{L}\p{N}\p{M}]+)*/gu;
