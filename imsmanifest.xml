@@ -193,12 +193,16 @@
       <file href="pg144_sec001.html"/>
     
       <file href="assets/base.bundle.local.js" />
+      <file href="assets/base.bundle.responsive.js" />
       <file href="assets/config.json" />
       <file href="assets/interface_translations/sw-TZ/interface_translations.json" />
       <file href="assets/media-playback-independence.js" />
       <file href="assets/offline-preloader.js" />
       <file href="assets/sign-language-video.css" />
       <file href="assets/sign-language-video.js" />
+      <file href="assets/responsive-reader.css" />
+      <file href="assets/mobile-sheet-drag.css" />
+      <file href="assets/mobile-sheet-drag.js" />
       <file href="back_cover.html" />
       <file href="content/i18n/sw-TZ/audios.json" />
       <file href="content/i18n/sw-TZ/glossary.json" />
