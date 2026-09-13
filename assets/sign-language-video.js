@@ -7,12 +7,26 @@
 
   function viewportSize() {
     var viewport = window.visualViewport;
-    return {
+    var size = {
       left: viewport ? viewport.offsetLeft : 0,
       top: viewport ? viewport.offsetTop : 0,
       width: viewport ? viewport.width : window.innerWidth,
       height: viewport ? viewport.height : window.innerHeight
     };
+    if (window.matchMedia("(max-width: 767.98px)").matches) {
+      var controls = document.querySelectorAll(
+        '[data-reader-dock], [role="group"][aria-label="Vidhibiti vya kusoma kwa sauti"], ' +
+        '[role="group"][aria-label="Read aloud controls"]'
+      );
+      Array.prototype.forEach.call(controls, function (control) {
+        var rect = control.getBoundingClientRect();
+        var style = window.getComputedStyle(control);
+        if (rect.height && rect.top > size.top && style.visibility !== "hidden" && style.opacity !== "0") {
+          size.height = Math.min(size.height, rect.top - size.top - 8);
+        }
+      });
+    }
+    return size;
   }
 
   function clamp(value, minimum, maximum) {
@@ -34,8 +48,16 @@
   function keepPlayerOnScreen(player) {
     window.requestAnimationFrame(function () {
       if (!player.isConnected) return;
-      var rect = player.getBoundingClientRect();
       var size = viewportSize();
+      var video = player.querySelector("video");
+      if (window.matchMedia("(max-width: 767.98px)").matches) {
+        player.style.setProperty("max-height", Math.max(44, size.height) + "px", "important");
+        if (video) video.style.setProperty("max-height", Math.max(0, size.height - 44) + "px", "important");
+      } else {
+        player.style.removeProperty("max-height");
+        if (video) video.style.removeProperty("max-height");
+      }
+      var rect = player.getBoundingClientRect();
       var fullyVisible = rect.left >= size.left && rect.top >= size.top &&
         rect.right <= size.left + size.width && rect.bottom <= size.top + size.height;
       if (!fullyVisible) movePlayer(player, rect.left, rect.top);
@@ -67,19 +89,25 @@
       start(event.clientX, event.clientY);
       if (handle.setPointerCapture) handle.setPointerCapture(event.pointerId);
       event.preventDefault();
+      event.stopPropagation();
     });
     handle.addEventListener("pointermove", function (event) {
       if (!drag) return;
       move(event.clientX, event.clientY);
       event.preventDefault();
+      event.stopPropagation();
     });
     handle.addEventListener("pointerup", function (event) {
       if (!drag) return;
       move(event.clientX, event.clientY);
       finish();
       event.preventDefault();
+      event.stopPropagation();
     });
-    handle.addEventListener("pointercancel", finish);
+    handle.addEventListener("pointercancel", function (event) {
+      finish();
+      event.stopPropagation();
+    });
     var video = player.querySelector("video");
     if (video) video.addEventListener("loadedmetadata", function () { keepPlayerOnScreen(player); });
     keepPlayerOnScreen(player);
@@ -93,7 +121,10 @@
       var handle = Array.prototype.find.call(player.children, function (child) {
         return child.getAttribute && child.getAttribute("role") === "button";
       });
-      if (handle) enhanceHandle(handle, player);
+      if (handle) {
+        enhanceHandle(handle, player);
+        keepPlayerOnScreen(player);
+      }
     });
   }
   function scheduleInstall() {

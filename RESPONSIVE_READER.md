@@ -23,3 +23,6 @@ Embedded debug source maps are removed from local runtime exports. Git ignore
 rules prevent caches and temporary files from being committed. Export rules
 exclude development metadata; Git commit history remains in the repository
 and is never part of the published textbook.
+
+On phones, the draggable sign-language player stays above navigation and
+read-aloud controls, including after resize and when restoring an older position.
