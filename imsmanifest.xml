@@ -386,7 +386,8 @@
       <file href="content/i18n/sw-TZ/video/page_7.mp4" />
       <file href="content/i18n/sw-TZ/video/page_8.mp4" />
       <file href="content/i18n/sw-TZ/video/page_9.mp4" />
-</resource>
+      <file href="assets/reader-mobile.css"/>
+    </resource>
   </resources>
 
 </manifest>

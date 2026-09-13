@@ -1,6 +1,8 @@
 (function () {
   "use strict";
 
+  var closeLabel = document.documentElement.lang.toLowerCase().startsWith("sw")
+    ? "Buruta chini ili kufunga" : "Drag down to close";
   var MOBILE_QUERY = "(max-width: 767.98px)";
   var SHEET_SELECTOR = '[role="dialog"][data-slot="sheet-content"][data-side="bottom"]';
   var media = window.matchMedia(MOBILE_QUERY);
@@ -9,8 +11,8 @@
 
   function resetSheet(sheet, animate) {
     sheet.style.transition = animate ? "transform 180ms ease-out, opacity 180ms ease-out" : "";
-    sheet.style.transform = "translateY(0)";
-    sheet.style.opacity = "1";
+    sheet.style.transform = animate ? "translateY(0)" : "";
+    sheet.style.opacity = animate ? "1" : "";
     sheet.removeAttribute("data-mobile-sheet-dragging");
     if (animate) {
       window.setTimeout(function () {
@@ -70,8 +72,8 @@
     handle.removeAttribute("aria-hidden");
     handle.setAttribute("role", "button");
     handle.setAttribute("tabindex", "0");
-    handle.setAttribute("aria-label", "Drag down to close");
-    handle.setAttribute("title", "Drag down to close");
+    handle.setAttribute("aria-label", closeLabel);
+    handle.setAttribute("title", closeLabel);
     handle.setAttribute("data-mobile-sheet-drag-handle", "");
 
     var drag = null;

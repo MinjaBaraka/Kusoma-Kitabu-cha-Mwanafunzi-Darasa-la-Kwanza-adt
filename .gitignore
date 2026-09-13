@@ -1,0 +1,22 @@
+
+
+# Generated files are not part of an exported textbook.
+.DS_Store
+._*
+__MACOSX/
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+/_site/
+/tmp/
+/temp/
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*~

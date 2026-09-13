@@ -1,0 +1,13 @@
+# GitHub Pages publishes reader files without development/debug artifacts.
+exclude:
+  - AGENTS.md
+  - RESPONSIVE_READER.md
+  - QA_AUDIT_LOG.md
+  - QA_FULL_BOOK_AUDIT.md
+  - scripts
+  - assets/base.bundle.min.js.map
+  - .cache
+  - __pycache__
+  - node_modules
+  - tmp
+  - temp
